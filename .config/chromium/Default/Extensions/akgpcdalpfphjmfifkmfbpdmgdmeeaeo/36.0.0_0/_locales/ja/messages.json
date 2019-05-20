@@ -1,0 +1,101 @@
+{
+   "allpage": {
+      "message": "ページ全てをスクリーンショット"
+   },
+   "cancel": {
+      "message": "キャンセル"
+   },
+   "canceled": {
+      "message": "キャプチャをキャンセルしました！"
+   },
+   "cannotscroll": {
+      "message": "このページはスクロールできません。タブを開き直してください。"
+   },
+   "changeheaders": {
+      "message": "ヘッダとフッタを変える"
+   },
+   "createimage": {
+      "message": "画像ファイルを作成中"
+   },
+   "date": {
+      "message": "日付"
+   },
+   "description": {
+      "message": "どのようなwebページでも素早くシンプルな操作でJPEGファイルに保存できます。webページを丸ごとキャプチャ出来る初めての拡張機能です。"
+   },
+   "dir": {
+      "message": "rtl"
+   },
+   "filebug": {
+      "message": "バグを報告できます"
+   },
+   "footer": {
+      "message": "フッタ"
+   },
+   "header": {
+      "message": "ヘッダ"
+   },
+   "height": {
+      "message": "高さ"
+   },
+   "imagesize": {
+      "message": "画像サイズ"
+   },
+   "likeresult": {
+      "message": "結果はいかがですか？　コメントを御願いします。５つ星でね！"
+   },
+   "loadcapturescript": {
+      "message": "キャプチャスクリプトを読み込み中"
+   },
+   "name": {
+      "message": "webページショット - Screenshot Extension"
+   },
+   "new": {
+      "message": "新"
+   },
+   "noall": {
+      "message": "このページはスクロールできません（Chrome内部ページと拡張機能ギャラリーでは動作しません）"
+   },
+   "noresize": {
+      "message": "リサイズしない"
+   },
+   "openimage": {
+      "message": "ここをクリックすると画像が開きます"
+   },
+   "or": {
+      "message": "または"
+   },
+   "preview": {
+      "message": "プレビュー"
+   },
+   "resize": {
+      "message": "リサイズする"
+   },
+   "resizebefore": {
+      "message": "キャプチャする前にリサイズする"
+   },
+   "takecapture": {
+      "message": "キャプチャする"
+   },
+   "takingcapture": {
+      "message": "キャプチャ取得中"
+   },
+   "tosavemessage": {
+      "message": "画像を保存する場合は、右クリックして、名前を付けて保存　を選んでください"
+   },
+   "url": {
+      "message": "URL"
+   },
+   "visiblescreenshot": {
+      "message": "見たままをスクリーンショット"
+   },
+   "wait": {
+      "message": "お待ち下さい"
+   },
+   "width": {
+      "message": "幅"
+   },
+   "zoom": {
+      "message": "ズーム"
+   }
+}

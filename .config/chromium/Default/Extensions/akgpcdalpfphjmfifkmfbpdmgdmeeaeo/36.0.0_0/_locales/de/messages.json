@@ -1,0 +1,98 @@
+{
+   "allpage": {
+      "message": "Kompletter Screenshot"
+   },
+   "cancel": {
+      "message": "Abbrechen"
+   },
+   "canceled": {
+      "message": "Aufnahme abgebrochen!"
+   },
+   "cannotscroll": {
+      "message": "Kann Webseite nicht scrollen\u003Cbr>\u003Cbr/>Versuchen Sie den Tab neu zu öffnen"
+   },
+   "changeheaders": {
+      "message": "Kopf- und Fußzeile ändern"
+   },
+   "createimage": {
+      "message": "Erstelle das Bild..."
+   },
+   "date": {
+      "message": "Datum"
+   },
+   "description": {
+      "message": "Schnelle und einfache Erweiterung um JPG-Screenshots von Webseiten zu erstellen. Lange Seiten können in einem Bild gespeichert ..."
+   },
+   "dir": {
+      "message": "ltr"
+   },
+   "filebug": {
+      "message": "einen Fehlerbericht senden"
+   },
+   "footer": {
+      "message": "Fußzeile"
+   },
+   "header": {
+      "message": "Kopfzeile"
+   },
+   "height": {
+      "message": "Höhe"
+   },
+   "imagesize": {
+      "message": "Auflösung:"
+   },
+   "likeresult": {
+      "message": "Gefällt das Ergebnis? Sie können ein nettes Kommentar schreiben oder mit 5 Sternen bewerten"
+   },
+   "loadcapturescript": {
+      "message": "Lade Aufnahmescript..."
+   },
+   "name": {
+      "message": "Webseiten-Screenshot - Screenshot Extension"
+   },
+   "noall": {
+      "message": "Kann Webseite nicht scrollen (Die Erweiterung funktioniert nicht in der Erweiterungsgallerie und auch nicht auf internen Chrome-Seiten)"
+   },
+   "noresize": {
+      "message": "Keine Größenänderung"
+   },
+   "openimage": {
+      "message": "Hier klicken um das Bild zu öffnen"
+   },
+   "or": {
+      "message": "oder"
+   },
+   "preview": {
+      "message": "Vorschau:"
+   },
+   "resize": {
+      "message": "Ändere Größe auf:"
+   },
+   "resizebefore": {
+      "message": "Fenstergröße vor der Aufnahme ändern"
+   },
+   "takecapture": {
+      "message": "Bild jetzt aufnehmen"
+   },
+   "takingcapture": {
+      "message": "Aufnahme"
+   },
+   "tosavemessage": {
+      "message": "Um das Bild zu speichern, machen Sie einen Rechtsklick darauf und wählen Sie \"Bild speichern unter\""
+   },
+   "url": {
+      "message": "URL"
+   },
+   "visiblescreenshot": {
+      "message": "Sichtbarer Screenshot"
+   },
+   "wait": {
+      "message": "Bitte warten..."
+   },
+   "width": {
+      "message": "Breite"
+   },
+   "zoom": {
+      "message": "Zoom"
+   }
+}

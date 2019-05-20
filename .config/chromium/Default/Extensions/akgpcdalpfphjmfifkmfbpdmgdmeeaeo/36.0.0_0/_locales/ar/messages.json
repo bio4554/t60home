@@ -1,0 +1,98 @@
+{
+   "allpage": {
+      "message": "تصوير كامل الشاشة"
+   },
+   "cancel": {
+      "message": "الغاء"
+   },
+   "canceled": {
+      "message": "الغاء التقاط الصورة"
+   },
+   "cannotscroll": {
+      "message": "لا يمكن تمرير الصفحة \u003Cbr>\u003Cbr/>حاول إعادة فتح هذا التبويب"
+   },
+   "changeheaders": {
+      "message": "تغيير رأس وتذييل"
+   },
+   "createimage": {
+      "message": "أنشاء ملف الصور"
+   },
+   "date": {
+      "message": "التاريخ"
+   },
+   "description": {
+      "message": "حل سريع وسهل لحفظ صفحات الوب على شكل صورة. هذه اول اضافة تمكنك من التقاط صورة لكامل الصفحة"
+   },
+   "dir": {
+      "message": "rtl"
+   },
+   "filebug": {
+      "message": "أنت يمكنك تقرير ملف الشوائدب"
+   },
+   "footer": {
+      "message": "تذليل"
+   },
+   "header": {
+      "message": "رأس"
+   },
+   "height": {
+      "message": "طول"
+   },
+   "imagesize": {
+      "message": "حجم الصورة:"
+   },
+   "likeresult": {
+      "message": "مثل هذه النتيجة؟ يمكنك كتابة تعليق لطيف ، وأعطي 5 نجوم"
+   },
+   "loadcapturescript": {
+      "message": "تحميل سكربت لاقط الصور"
+   },
+   "name": {
+      "message": "إضافة للصفحة - Screenshot Extension"
+   },
+   "noall": {
+      "message": "لا يمكن تمرير هذه الصفحة (الإضافات لا يمكن أن تعمل على الصفحة الداخلية ولا على معرض إضافات كروم)"
+   },
+   "noresize": {
+      "message": "لا يمكن تغيير الحجم"
+   },
+   "openimage": {
+      "message": "انقر هنا لفتح الصورة"
+   },
+   "or": {
+      "message": "أو"
+   },
+   "preview": {
+      "message": "معاينة:"
+   },
+   "resize": {
+      "message": "الحجم لـ:"
+   },
+   "resizebefore": {
+      "message": "تعديل حجم النافذة قبل التقاط الصورة"
+   },
+   "takecapture": {
+      "message": "ألتقاط الصورة الأن"
+   },
+   "takingcapture": {
+      "message": "التقاط الصورة"
+   },
+   "tosavemessage": {
+      "message": "لحفظ الصورة, أضغط زر الفارة اليمين عليها وأختر \"حفظ الصورة\""
+   },
+   "url": {
+      "message": "الرابط"
+   },
+   "visiblescreenshot": {
+      "message": "تصوير الشاشة الظاهرة"
+   },
+   "wait": {
+      "message": "أنتظار"
+   },
+   "width": {
+      "message": "عرض"
+   },
+   "zoom": {
+      "message": "تكبير"
+   }
+}

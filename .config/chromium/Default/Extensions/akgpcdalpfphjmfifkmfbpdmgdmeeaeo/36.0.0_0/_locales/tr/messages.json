@@ -1,0 +1,98 @@
+{
+   "allpage": {
+      "message": "Tam sayfa ekran görüntüsü"
+   },
+   "cancel": {
+      "message": "iptal"
+   },
+   "canceled": {
+      "message": "Görüntü yakalama iptal edildi!"
+   },
+   "cannotscroll": {
+      "message": "Bu sayfa sürüklenemez\u003Cbr>\u003Cbr/>Bu sekmeyi yeniden açmayı deneyin"
+   },
+   "changeheaders": {
+      "message": "Header ve Footer değiştir"
+   },
+   "createimage": {
+      "message": " Görüntü dosyası oluşturuluyor..."
+   },
+   "date": {
+      "message": "Tarih"
+   },
+   "description": {
+      "message": "Herhangi bir sayfanın ekran görüntüsünü JPG...yakalamak için hızlı&basit bir çözüm.Tüm sayfa görüntüsünü yakalayabilen ilk uzantı."
+   },
+   "dir": {
+      "message": "ltr"
+   },
+   "filebug": {
+      "message": "Hata raporu bildirebilirsiniz."
+   },
+   "footer": {
+      "message": "Footer"
+   },
+   "header": {
+      "message": "Header"
+   },
+   "height": {
+      "message": "yükseklik"
+   },
+   "imagesize": {
+      "message": "İmaj boyutu:"
+   },
+   "likeresult": {
+      "message": "Sonucu beğendiniz mi? Hoş bir yorum yazıp, 5 yıldız verebilirsiniz."
+   },
+   "loadcapturescript": {
+      "message": "Yükleniyor..."
+   },
+   "name": {
+      "message": "Web sayfası görüntüsü yakala - WP Screenshot"
+   },
+   "noall": {
+      "message": "Bu sayfa sürüklenemez (Uzantılar iç Chrome sayfalarında ve Chrome uzantılar galerisinde çalışmaz)"
+   },
+   "noresize": {
+      "message": "Boyutlandırma yok"
+   },
+   "openimage": {
+      "message": "Dosyayı açmak için buraya tıklayın."
+   },
+   "or": {
+      "message": "veya"
+   },
+   "preview": {
+      "message": "Önizleme:"
+   },
+   "resize": {
+      "message": "Şuna boyutlandır: "
+   },
+   "resizebefore": {
+      "message": "Görüntü yakalamadan önce pencereyi yeniden boyutlandır"
+   },
+   "takecapture": {
+      "message": "Şimdi Görüntü Yakala"
+   },
+   "takingcapture": {
+      "message": "Görüntü yakalanıyor"
+   },
+   "tosavemessage": {
+      "message": "Görüntüyü kaydetmek için, sağ tıklayın ve \"Save Image\" seçin."
+   },
+   "url": {
+      "message": "URL"
+   },
+   "visiblescreenshot": {
+      "message": "Görünen ekran görüntüsü"
+   },
+   "wait": {
+      "message": "bekle"
+   },
+   "width": {
+      "message": "genişlik"
+   },
+   "zoom": {
+      "message": "Yakınlaştır"
+   }
+}

@@ -1,0 +1,98 @@
+{
+   "allpage": {
+      "message": "Billede af hele siden"
+   },
+   "cancel": {
+      "message": "annullér"
+   },
+   "canceled": {
+      "message": "Skærm dumpning annulléret!"
+   },
+   "cannotscroll": {
+      "message": "Kan ikke rulle på siden\u003Cbr>\u003Cbr/>Prøv at genåbne denne fane"
+   },
+   "changeheaders": {
+      "message": "Skift sidehoved og sidefod"
+   },
+   "createimage": {
+      "message": " Laver billedfil..."
+   },
+   "date": {
+      "message": "Dato"
+   },
+   "description": {
+      "message": "Hurtig og simpel løsning til at gemme JPG screenshot af enhver hjemmeside. Den første udvidelse der får hele siden med."
+   },
+   "dir": {
+      "message": "ltr"
+   },
+   "filebug": {
+      "message": "Du kan rapportere en fejl"
+   },
+   "footer": {
+      "message": "Sidefod"
+   },
+   "header": {
+      "message": "Sidehoved"
+   },
+   "height": {
+      "message": "højde"
+   },
+   "imagesize": {
+      "message": "Billedstørrelse:"
+   },
+   "likeresult": {
+      "message": "Kan du lide resultatet? Du kan skrive en fed kommentar og give 5 stjerner"
+   },
+   "loadcapturescript": {
+      "message": "Henter Koden..."
+   },
+   "name": {
+      "message": "Hjemmeside udvidelse - Screenshot Extension"
+   },
+   "noall": {
+      "message": "Kan ikke rulle på denne side (Udvidelserne virker ikke på interne Chrome sider eller på Chrome udvidelses galleriet)"
+   },
+   "noresize": {
+      "message": "Ingen størrelses ændring"
+   },
+   "openimage": {
+      "message": "Klik her for at åbne billedet"
+   },
+   "or": {
+      "message": "eller"
+   },
+   "preview": {
+      "message": "Eksempel::"
+   },
+   "resize": {
+      "message": "Ændre størrelse til:: "
+   },
+   "resizebefore": {
+      "message": "Skift størrelse på billede inden det tages"
+   },
+   "takecapture": {
+      "message": "Tag skærmbillede nu"
+   },
+   "takingcapture": {
+      "message": "Tager skærmbillede"
+   },
+   "tosavemessage": {
+      "message": "For at gemme billedet, højreklik på det og vælg \"Gem Billede som...\""
+   },
+   "url": {
+      "message": "Adresse"
+   },
+   "visiblescreenshot": {
+      "message": "Synligt skærmbillede"
+   },
+   "wait": {
+      "message": "vent"
+   },
+   "width": {
+      "message": "bredde"
+   },
+   "zoom": {
+      "message": "Zoom"
+   }
+}

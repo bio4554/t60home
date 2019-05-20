@@ -1,0 +1,34 @@
+{
+   "background": {
+      "page": "background.html"
+   },
+   "browser_action": {
+      "default_icon": "images/browseraction.png",
+      "default_popup": "popup.html",
+      "default_title": "Screenshot Extension"
+   },
+   "commands": {
+      "entire_page_screenshot": {
+         "description": "Entire Page Screenshot"
+      },
+      "visible_screenshot": {
+         "description": "visible screenshot"
+      }
+   },
+   "default_locale": "en",
+   "description": "__MSG_description__",
+   "homepage_url": "https://1ce.org",
+   "icons": {
+      "128": "images/icon128.png",
+      "48": "images/icon48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCBXS/hSe3HYA1udeEUQgO+a17Hc7eYBEobUo5MletxLaMhoy4zg2DZf15CDIo7XVb2Xn1NGMSunuGJh8p3tbHYCweGK8aVPosh2ptclmIQwk2A7Do5Rfk/we5aSlRDXNRcrduwyLDqmjD0HlMugpbtok7oLsfW4my0mNfUdD0aSwIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_name__",
+   "offline_enabled": true,
+   "optional_permissions": [ "desktopCapture" ],
+   "permissions": [ "activeTab" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "36.0.0",
+   "web_accessible_resources": [ "/images/*.png", "/css/pagestyles.css", "/css/dialog.css", "/libs/gapi.js", "/libs/jquery.js", "/js/dialog.js" ]
+}

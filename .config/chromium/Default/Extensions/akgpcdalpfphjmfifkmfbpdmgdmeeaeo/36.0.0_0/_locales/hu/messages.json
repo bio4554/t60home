@@ -1,0 +1,98 @@
+{
+   "allpage": {
+      "message": "Képernyőkép az egész oldalról"
+   },
+   "cancel": {
+      "message": "mégsem"
+   },
+   "canceled": {
+      "message": "Képkészítés visszavonva!!"
+   },
+   "cannotscroll": {
+      "message": "Nem lehet görgetni a lapot\u003Cbr>\u003Cbr/>Próbáld a lapot újranyitni"
+   },
+   "changeheaders": {
+      "message": "Fej-, és lábléc csere"
+   },
+   "createimage": {
+      "message": "Képfájl létrehozása..."
+   },
+   "date": {
+      "message": "Dátum"
+   },
+   "description": {
+      "message": "Hogy bármely weboldal képernyőképét JPG formátumban elmenthesd. Az első kiegészítés, amely az egész oldalt képes kifényképezni."
+   },
+   "dir": {
+      "message": "ltr"
+   },
+   "filebug": {
+      "message": "Küldhetsz egy hibajelentést"
+   },
+   "footer": {
+      "message": "Lábléc"
+   },
+   "header": {
+      "message": "Fejléc"
+   },
+   "height": {
+      "message": "magasság"
+   },
+   "imagesize": {
+      "message": "Kép méret:"
+   },
+   "likeresult": {
+      "message": "Tetszik a végeredmény? Írhatsz egy jó megjegyzést, vagy adhatsz 5 csillagot"
+   },
+   "loadcapturescript": {
+      "message": "Képernyőkép készítő script betöltése..."
+   },
+   "name": {
+      "message": "Weboldal Screenshot készítő - WP Screenshot"
+   },
+   "noall": {
+      "message": "Nem lehet görgetni a jelenlegi oldalt (A kiegészítő nem működik a Chrome beépített oldalaival, és a kiegészítő galériával sem)"
+   },
+   "noresize": {
+      "message": "Nincs méretezés"
+   },
+   "openimage": {
+      "message": "Kattints ide a kép megnyitásához"
+   },
+   "or": {
+      "message": "vagy"
+   },
+   "preview": {
+      "message": "Előnézet:"
+   },
+   "resize": {
+      "message": "Átméretezés:"
+   },
+   "resizebefore": {
+      "message": "Ablak átméretezése kép készítése előtt"
+   },
+   "takecapture": {
+      "message": "Kép készítése most"
+   },
+   "takingcapture": {
+      "message": "Képrenyőkép készítése"
+   },
+   "tosavemessage": {
+      "message": "A kép mentéséhez jobb klikk rá és válaszd a \"Kép mentése másként...\" opciót"
+   },
+   "url": {
+      "message": "Link"
+   },
+   "visiblescreenshot": {
+      "message": "Képernyőkép a látható részről"
+   },
+   "wait": {
+      "message": "várj"
+   },
+   "width": {
+      "message": "szélesség"
+   },
+   "zoom": {
+      "message": "Nagyítás"
+   }
+}

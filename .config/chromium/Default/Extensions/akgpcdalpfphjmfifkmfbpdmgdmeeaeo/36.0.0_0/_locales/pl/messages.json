@@ -1,0 +1,98 @@
+{
+   "allpage": {
+      "message": "Zrzut całej strony"
+   },
+   "cancel": {
+      "message": "anuluj"
+   },
+   "canceled": {
+      "message": "Zrzut anulowany!"
+   },
+   "cannotscroll": {
+      "message": "Nie mogę przewinąć strony\u003Cbr>\u003Cbr/>Spróbuj otworzyć stronę ponownie"
+   },
+   "changeheaders": {
+      "message": "Zmień nagłówek i stopkę"
+   },
+   "createimage": {
+      "message": "Tworzę plik obrazka..."
+   },
+   "date": {
+      "message": "Data"
+   },
+   "description": {
+      "message": "Szybkie i proste narzędzie do zapisywania zrzutów ekranowych dowolnych stron www do formatu JPG. Pierwsze rozszerzenie..."
+   },
+   "dir": {
+      "message": "ltr"
+   },
+   "filebug": {
+      "message": "Możesz przesłać raport z błędami"
+   },
+   "footer": {
+      "message": "Stopka"
+   },
+   "header": {
+      "message": "Nagłówek"
+   },
+   "height": {
+      "message": "wysokość"
+   },
+   "imagesize": {
+      "message": "Rozmiar obrazka:"
+   },
+   "likeresult": {
+      "message": "Podoba Ci się rezultat? Możesz napisać miły komentarz i dać nam 5 gwiazdek"
+   },
+   "loadcapturescript": {
+      "message": "Ładuję skrypt zrzutu "
+   },
+   "name": {
+      "message": "Screenshot stron www - Screenshot Extension"
+   },
+   "noall": {
+      "message": "Nie mogę przewinąć tej strony (Rozszerzenie może nie działać na wewnętrznych stronach przeglądarki lub w galerii z rozszerzeniami"
+   },
+   "noresize": {
+      "message": "Nie zmieniaj rozmiaru"
+   },
+   "openimage": {
+      "message": "Kliknij tutaj, aby zobaczyć obraz"
+   },
+   "or": {
+      "message": "albo"
+   },
+   "preview": {
+      "message": "Podgląd:"
+   },
+   "resize": {
+      "message": "Zmień rozmiar na:"
+   },
+   "resizebefore": {
+      "message": "Zmień rozmiar okna przed zrzutem"
+   },
+   "takecapture": {
+      "message": "Zrób rzut teraz"
+   },
+   "takingcapture": {
+      "message": "Tworzę zrzut"
+   },
+   "tosavemessage": {
+      "message": "Aby zapisać obrazek, kliknij na niego prawym przyciskiem myszy i wybierz \"Zachowaj grafikę jako...\""
+   },
+   "url": {
+      "message": "URL"
+   },
+   "visiblescreenshot": {
+      "message": "Zrzut widocznej części strony"
+   },
+   "wait": {
+      "message": "czekaj"
+   },
+   "width": {
+      "message": "szerokość"
+   },
+   "zoom": {
+      "message": "Powiększ"
+   }
+}

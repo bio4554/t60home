@@ -1,0 +1,98 @@
+{
+   "allpage": {
+      "message": "Celá stránka"
+   },
+   "cancel": {
+      "message": "zrušit"
+   },
+   "canceled": {
+      "message": "Snímání bylo zrušeno!"
+   },
+   "cannotscroll": {
+      "message": "Nelze posouvat stránku\u003Cbr>\u003Cbr/>Zkuste znovu otevřít tuto záložku"
+   },
+   "changeheaders": {
+      "message": "Změna záhlaví a zápatí"
+   },
+   "createimage": {
+      "message": " Vytvářím obrázek..."
+   },
+   "date": {
+      "message": "Datum"
+   },
+   "description": {
+      "message": "Rychlé a jednoduché pro uložení JPG snímků libovolné webové stránky.  První rozšíření, které snímá celou stránku."
+   },
+   "dir": {
+      "message": "ltr"
+   },
+   "filebug": {
+      "message": "Můžete vyplnit hlášení o chybě"
+   },
+   "footer": {
+      "message": "Zápatí"
+   },
+   "header": {
+      "message": "Záhlaví"
+   },
+   "height": {
+      "message": "výška"
+   },
+   "imagesize": {
+      "message": "Velikost obrázku:"
+   },
+   "likeresult": {
+      "message": "Líbí se vám výsledek? Můžete napsat pěkný komentář a ohodnotit pěti hvězdičkami"
+   },
+   "loadcapturescript": {
+      "message": "Načítám..."
+   },
+   "name": {
+      "message": "Rozšíření pro webové stránky - WP Screenshot"
+   },
+   "noall": {
+      "message": "Nemůžete posouvat tuto stránku (Rozšíření nepracuje na interních stránkách prohlížeče Chrome a v galerii rozšíření prohlížeče Chrome"
+   },
+   "noresize": {
+      "message": "Neměnit velikost"
+   },
+   "openimage": {
+      "message": "Klikněte zde pro otevření obrázku"
+   },
+   "or": {
+      "message": "nebo"
+   },
+   "preview": {
+      "message": "Náhled:"
+   },
+   "resize": {
+      "message": "Změnit velikost:"
+   },
+   "resizebefore": {
+      "message": "Změnit velikost okna před vytvořením snímku"
+   },
+   "takecapture": {
+      "message": "Vytvořit snímek"
+   },
+   "takingcapture": {
+      "message": "Vytvořit snímek"
+   },
+   "tosavemessage": {
+      "message": "Pro uložení obrázku, klikněte na něj pravým tlačítkem myši a zvolte \"Uložit obrázek...\""
+   },
+   "url": {
+      "message": "URL"
+   },
+   "visiblescreenshot": {
+      "message": "Viditelná část"
+   },
+   "wait": {
+      "message": "čekejt"
+   },
+   "width": {
+      "message": "šířka"
+   },
+   "zoom": {
+      "message": "Zoom"
+   }
+}

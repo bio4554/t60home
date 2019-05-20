@@ -1,0 +1,6 @@
+2019/05/14-19:42:16.450 20c Reusing MANIFEST /home/bio4554/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001
+2019/05/14-19:42:16.451 20c Recovering log #7
+2019/05/14-19:42:16.453 20c Reusing old log /home/bio4554/.config/chromium/Default/Sync Data/LevelDB/000007.log 
+2019/05/14-20:22:27.079 51d Level-0 table #11: started
+2019/05/14-20:22:27.110 51d Level-0 table #11: 104113 bytes OK
+2019/05/14-20:22:27.141 51d Delete type=0 #7

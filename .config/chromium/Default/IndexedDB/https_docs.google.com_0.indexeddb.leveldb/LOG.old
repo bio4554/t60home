@@ -1,0 +1,5 @@
+2019/05/20-11:38:15.593 3ef Reusing MANIFEST /home/bio4554/.config/chromium/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2019/05/20-11:38:15.593 3ef Recovering log #114
+2019/05/20-11:38:15.646 3ef Level-0 table #119: started
+2019/05/20-11:38:15.715 3ef Level-0 table #119: 1788490 bytes OK
+2019/05/20-11:38:15.745 3ef Delete type=0 #114

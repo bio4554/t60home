@@ -1,0 +1,538 @@
+[    15.159] (WW) Failed to open protocol names file lib/xorg/protocol.txt
+[    15.160] 
+X.Org X Server 1.20.4
+X Protocol Version 11, Revision 0
+[    15.160] Build Operating System: Linux Arch Linux
+[    15.160] Current Operating System: Linux biopad 5.0.13-arch1-1-ARCH #1 SMP PREEMPT Sun May 5 18:05:41 UTC 2019 x86_64
+[    15.160] Kernel command line: BOOT_IMAGE=/boot/vmlinuz-linux root=UUID=6783d927-8fe9-49df-b92c-ff7454e52f25 rw quiet
+[    15.160] Build Date: 27 February 2019  04:04:00PM
+[    15.160]  
+[    15.160] Current version of pixman: 0.38.4
+[    15.161] 	Before reporting problems, check http://wiki.x.org
+	to make sure that you have the latest version.
+[    15.161] Markers: (--) probed, (**) from config file, (==) default setting,
+	(++) from command line, (!!) notice, (II) informational,
+	(WW) warning, (EE) error, (NI) not implemented, (??) unknown.
+[    15.161] (==) Log file: "/home/bio4554/.local/share/xorg/Xorg.0.log", Time: Mon May 20 11:28:32 2019
+[    15.164] (==) Using system config directory "/usr/share/X11/xorg.conf.d"
+[    15.166] (==) No Layout section.  Using the first Screen section.
+[    15.166] (==) No screen section available. Using defaults.
+[    15.166] (**) |-->Screen "Default Screen Section" (0)
+[    15.166] (**) |   |-->Monitor "<default monitor>"
+[    15.167] (==) No monitor specified for screen "Default Screen Section".
+	Using a default monitor configuration.
+[    15.167] (==) Automatically adding devices
+[    15.167] (==) Automatically enabling devices
+[    15.167] (==) Automatically adding GPU devices
+[    15.167] (==) Automatically binding GPU devices
+[    15.167] (==) Max clients allowed: 256, resource mask: 0x1fffff
+[    15.172] (WW) The directory "/usr/share/fonts/OTF" does not exist.
+[    15.172] 	Entry deleted from font path.
+[    15.172] (WW) The directory "/usr/share/fonts/Type1" does not exist.
+[    15.172] 	Entry deleted from font path.
+[    15.172] (WW) The directory "/usr/share/fonts/100dpi" does not exist.
+[    15.172] 	Entry deleted from font path.
+[    15.172] (WW) The directory "/usr/share/fonts/75dpi" does not exist.
+[    15.172] 	Entry deleted from font path.
+[    15.172] (==) FontPath set to:
+	/usr/share/fonts/misc,
+	/usr/share/fonts/TTF
+[    15.172] (==) ModulePath set to "/usr/lib/xorg/modules"
+[    15.172] (II) The server relies on udev to provide the list of input devices.
+	If no devices become available, reconfigure udev or disable AutoAddDevices.
+[    15.172] (II) Module ABI versions:
+[    15.172] 	X.Org ANSI C Emulation: 0.4
+[    15.172] 	X.Org Video Driver: 24.0
+[    15.172] 	X.Org XInput driver : 24.1
+[    15.172] 	X.Org Server Extension : 10.0
+[    15.173] (++) using VT number 1
+
+[    15.175] (II) systemd-logind: took control of session /org/freedesktop/login1/session/_31
+[    15.176] (II) xfree86: Adding drm device (/dev/dri/card0)
+[    15.177] (II) systemd-logind: got fd for /dev/dri/card0 226:0 fd 10 paused 0
+[    15.182] (--) PCI:*(1@0:0:0) 1002:7145:17aa:2006 rev 0, Mem @ 0xd8000000/134217728, 0xee100000/65536, I/O @ 0x00002000/256, BIOS @ 0x????????/131072
+[    15.183] (WW) Open ACPI failed (/var/run/acpid.socket) (No such file or directory)
+[    15.183] (II) LoadModule: "glx"
+[    15.186] (II) Loading /usr/lib/xorg/modules/extensions/libglx.so
+[    15.205] (II) Module glx: vendor="X.Org Foundation"
+[    15.205] 	compiled for 1.20.4, module version = 1.0.0
+[    15.205] 	ABI class: X.Org Server Extension, version 10.0
+[    15.205] (II) Applying OutputClass "Radeon" to /dev/dri/card0
+[    15.205] 	loading driver: radeon
+[    15.205] (==) Matched radeon as autoconfigured driver 0
+[    15.205] (==) Matched ati as autoconfigured driver 1
+[    15.205] (==) Matched modesetting as autoconfigured driver 2
+[    15.205] (==) Matched fbdev as autoconfigured driver 3
+[    15.205] (==) Matched vesa as autoconfigured driver 4
+[    15.205] (==) Assigned the driver to the xf86ConfigLayout
+[    15.205] (II) LoadModule: "radeon"
+[    15.206] (II) Loading /usr/lib/xorg/modules/drivers/radeon_drv.so
+[    15.215] (II) Module radeon: vendor="X.Org Foundation"
+[    15.215] 	compiled for 1.20.4, module version = 19.0.1
+[    15.215] 	Module class: X.Org Video Driver
+[    15.215] 	ABI class: X.Org Video Driver, version 24.0
+[    15.215] (II) LoadModule: "ati"
+[    15.215] (II) Loading /usr/lib/xorg/modules/drivers/ati_drv.so
+[    15.216] (II) Module ati: vendor="X.Org Foundation"
+[    15.216] 	compiled for 1.20.4, module version = 19.0.1
+[    15.216] 	Module class: X.Org Video Driver
+[    15.216] 	ABI class: X.Org Video Driver, version 24.0
+[    15.216] (II) LoadModule: "modesetting"
+[    15.216] (II) Loading /usr/lib/xorg/modules/drivers/modesetting_drv.so
+[    15.218] (II) Module modesetting: vendor="X.Org Foundation"
+[    15.218] 	compiled for 1.20.4, module version = 1.20.4
+[    15.218] 	Module class: X.Org Video Driver
+[    15.218] 	ABI class: X.Org Video Driver, version 24.0
+[    15.218] (II) LoadModule: "fbdev"
+[    15.218] (WW) Warning, couldn't open module fbdev
+[    15.218] (EE) Failed to load module "fbdev" (module does not exist, 0)
+[    15.218] (II) LoadModule: "vesa"
+[    15.218] (WW) Warning, couldn't open module vesa
+[    15.218] (EE) Failed to load module "vesa" (module does not exist, 0)
+[    15.218] (II) RADEON: Driver for ATI/AMD Radeon chipsets:
+	ATI Radeon Mobility X600 (M24), ATI FireMV 2400,
+	ATI Radeon Mobility X300 (M24), ATI FireGL M24 GL,
+	ATI Radeon X600 (RV380), ATI FireGL V3200 (RV380),
+	ATI Radeon IGP320 (A3), ATI Radeon IGP330/340/350 (A4),
+	ATI Radeon 9500, ATI Radeon 9600TX, ATI FireGL Z1, ATI Radeon 9800SE,
+	ATI Radeon 9800, ATI FireGL X2, ATI Radeon 9600, ATI Radeon 9600SE,
+	ATI Radeon 9600XT, ATI FireGL T2, ATI Radeon 9650, ATI FireGL RV360,
+	ATI Radeon 7000 IGP (A4+), ATI Radeon 8500 AIW,
+	ATI Radeon IGP320M (U1), ATI Radeon IGP330M/340M/350M (U2),
+	ATI Radeon Mobility 7000 IGP, ATI Radeon 9000/PRO, ATI Radeon 9000,
+	ATI Radeon X800 (R420), ATI Radeon X800PRO (R420),
+	ATI Radeon X800SE (R420), ATI FireGL X3 (R420),
+	ATI Radeon Mobility 9800 (M18), ATI Radeon X800 SE (R420),
+	ATI Radeon X800XT (R420), ATI Radeon X800 VE (R420),
+	ATI Radeon X850 (R480), ATI Radeon X850 XT (R480),
+	ATI Radeon X850 SE (R480), ATI Radeon X850 PRO (R480),
+	ATI Radeon X850 XT PE (R480), ATI Radeon Mobility M7,
+	ATI Mobility FireGL 7800 M7, ATI Radeon Mobility M6,
+	ATI FireGL Mobility 9000 (M9), ATI Radeon Mobility 9000 (M9),
+	ATI Radeon 9700 Pro, ATI Radeon 9700/9500Pro, ATI FireGL X1,
+	ATI Radeon 9800PRO, ATI Radeon 9800XT,
+	ATI Radeon Mobility 9600/9700 (M10/M11),
+	ATI Radeon Mobility 9600 (M10), ATI Radeon Mobility 9600 (M11),
+	ATI FireGL Mobility T2 (M10), ATI FireGL Mobility T2e (M11),
+	ATI Radeon, ATI FireGL 8700/8800, ATI Radeon 8500, ATI Radeon 9100,
+	ATI Radeon 7500, ATI Radeon VE/7000, ATI ES1000,
+	ATI Radeon Mobility X300 (M22), ATI Radeon Mobility X600 SE (M24C),
+	ATI FireGL M22 GL, ATI Radeon X800 (R423), ATI Radeon X800PRO (R423),
+	ATI Radeon X800LE (R423), ATI Radeon X800SE (R423),
+	ATI Radeon X800 XTP (R430), ATI Radeon X800 XL (R430),
+	ATI Radeon X800 SE (R430), ATI Radeon X800 (R430),
+	ATI FireGL V7100 (R423), ATI FireGL V5100 (R423),
+	ATI FireGL unknown (R423), ATI Mobility FireGL V5000 (M26),
+	ATI Mobility Radeon X700 XL (M26), ATI Mobility Radeon X700 (M26),
+	ATI Radeon X550XTX, ATI Radeon 9100 IGP (A5),
+	ATI Radeon Mobility 9100 IGP (U3), ATI Radeon XPRESS 200,
+	ATI Radeon XPRESS 200M, ATI Radeon 9250, ATI Radeon 9200,
+	ATI Radeon 9200SE, ATI FireMV 2200, ATI Radeon X300 (RV370),
+	ATI Radeon X600 (RV370), ATI Radeon X550 (RV370),
+	ATI FireGL V3100 (RV370), ATI FireMV 2200 PCIE (RV370),
+	ATI Radeon Mobility 9200 (M9+), ATI Mobility Radeon X800 XT (M28),
+	ATI Mobility FireGL V5100 (M28), ATI Mobility Radeon X800 (M28),
+	ATI Radeon X850, ATI unknown Radeon / FireGL (R480),
+	ATI Radeon X800XT (R423), ATI FireGL V5000 (RV410),
+	ATI Radeon X700 XT (RV410), ATI Radeon X700 PRO (RV410),
+	ATI Radeon X700 SE (RV410), ATI Radeon X700 (RV410),
+	ATI Radeon X1800, ATI Mobility Radeon X1800 XT,
+	ATI Mobility Radeon X1800, ATI Mobility FireGL V7200,
+	ATI FireGL V7200, ATI FireGL V5300, ATI Mobility FireGL V7100,
+	ATI FireGL V7300, ATI FireGL V7350, ATI Radeon X1600, ATI RV505,
+	ATI Radeon X1300/X1550, ATI Radeon X1550, ATI M54-GL,
+	ATI Mobility Radeon X1400, ATI Radeon X1550 64-bit,
+	ATI Mobility Radeon X1300, ATI Radeon X1300, ATI FireGL V3300,
+	ATI FireGL V3350, ATI Mobility Radeon X1450,
+	ATI Mobility Radeon X2300, ATI Mobility Radeon X1350,
+	ATI FireMV 2250, ATI Radeon X1650, ATI Mobility FireGL V5200,
+	ATI Mobility Radeon X1600, ATI Radeon X1300 XT/X1600 Pro,
+	ATI FireGL V3400, ATI Mobility FireGL V5250,
+	ATI Mobility Radeon X1700, ATI Mobility Radeon X1700 XT,
+	ATI FireGL V5200, ATI Radeon X2300HD, ATI Mobility Radeon HD 2300,
+	ATI Radeon X1950, ATI Radeon X1900, ATI AMD Stream Processor,
+	ATI RV560, ATI Mobility Radeon X1900, ATI Radeon X1950 GT, ATI RV570,
+	ATI FireGL V7400, ATI Radeon 9100 PRO IGP,
+	ATI Radeon Mobility 9200 IGP, ATI Radeon X1200, ATI RS740,
+	ATI RS740M, ATI Radeon HD 2900 XT, ATI Radeon HD 2900 Pro,
+	ATI Radeon HD 2900 GT, ATI FireGL V8650, ATI FireGL V8600,
+	ATI FireGL V7600, ATI Radeon 4800 Series, ATI Radeon HD 4870 x2,
+	ATI Radeon HD 4850 x2, ATI FirePro V8750 (FireGL),
+	ATI FirePro V7760 (FireGL), ATI Mobility RADEON HD 4850,
+	ATI Mobility RADEON HD 4850 X2, ATI FirePro RV770,
+	AMD FireStream 9270, AMD FireStream 9250, ATI FirePro V8700 (FireGL),
+	ATI Mobility RADEON HD 4870, ATI Mobility RADEON M98,
+	ATI FirePro M7750, ATI M98, ATI Mobility Radeon HD 4650,
+	ATI Radeon RV730 (AGP), ATI Mobility Radeon HD 4670,
+	ATI FirePro M5750, ATI RV730XT [Radeon HD 4670], ATI RADEON E4600,
+	ATI Radeon HD 4600 Series, ATI RV730 PRO [Radeon HD 4650],
+	ATI FirePro V7750 (FireGL), ATI FirePro V5700 (FireGL),
+	ATI FirePro V3750 (FireGL), ATI Mobility Radeon HD 4830,
+	ATI Mobility Radeon HD 4850, ATI FirePro M7740, ATI RV740,
+	ATI Radeon HD 4770, ATI Radeon HD 4700 Series, ATI RV610,
+	ATI Radeon HD 2400 XT, ATI Radeon HD 2400 Pro,
+	ATI Radeon HD 2400 PRO AGP, ATI FireGL V4000, ATI Radeon HD 2350,
+	ATI Mobility Radeon HD 2400 XT, ATI Mobility Radeon HD 2400,
+	ATI RADEON E2400, ATI FireMV 2260, ATI RV670, ATI Radeon HD3870,
+	ATI Mobility Radeon HD 3850, ATI Radeon HD3850,
+	ATI Mobility Radeon HD 3850 X2, ATI Mobility Radeon HD 3870,
+	ATI Mobility Radeon HD 3870 X2, ATI Radeon HD3870 X2,
+	ATI FireGL V7700, ATI Radeon HD3690, AMD Firestream 9170,
+	ATI Radeon HD 4550, ATI Radeon RV710, ATI Radeon HD 4350,
+	ATI Mobility Radeon 4300 Series, ATI Mobility Radeon 4500 Series,
+	ATI FirePro RG220, ATI Mobility Radeon 4330, ATI RV630,
+	ATI Mobility Radeon HD 2600, ATI Mobility Radeon HD 2600 XT,
+	ATI Radeon HD 2600 XT AGP, ATI Radeon HD 2600 Pro AGP,
+	ATI Radeon HD 2600 XT, ATI Radeon HD 2600 Pro, ATI Gemini RV630,
+	ATI Gemini Mobility Radeon HD 2600 XT, ATI FireGL V5600,
+	ATI FireGL V3600, ATI Radeon HD 2600 LE,
+	ATI Mobility FireGL Graphics Processor, ATI Radeon HD 3470,
+	ATI Mobility Radeon HD 3430, ATI Mobility Radeon HD 3400 Series,
+	ATI Radeon HD 3450, ATI Radeon HD 3430, ATI FirePro V3700,
+	ATI FireMV 2450, ATI Radeon HD 3600 Series, ATI Radeon HD 3650 AGP,
+	ATI Radeon HD 3600 PRO, ATI Radeon HD 3600 XT,
+	ATI Mobility Radeon HD 3650, ATI Mobility Radeon HD 3670,
+	ATI Mobility FireGL V5700, ATI Mobility FireGL V5725,
+	ATI Radeon HD 3200 Graphics, ATI Radeon 3100 Graphics,
+	ATI Radeon HD 3300 Graphics, ATI Radeon 3000 Graphics, SUMO, SUMO2,
+	ATI Radeon HD 4200, ATI Radeon 4100, ATI Mobility Radeon HD 4200,
+	ATI Mobility Radeon 4100, ATI Radeon HD 4290, ATI Radeon HD 4250,
+	AMD Radeon HD 6310 Graphics, AMD Radeon HD 6250 Graphics,
+	AMD Radeon HD 6300 Series Graphics,
+	AMD Radeon HD 6200 Series Graphics, PALM, CYPRESS,
+	ATI FirePro (FireGL) Graphics Adapter, AMD Firestream 9370,
+	AMD Firestream 9350, ATI Radeon HD 5800 Series,
+	ATI Radeon HD 5900 Series, ATI Mobility Radeon HD 5800 Series,
+	ATI Radeon HD 5700 Series, ATI Radeon HD 6700 Series,
+	ATI Mobility Radeon HD 5000 Series, ATI Mobility Radeon HD 5570,
+	ATI Radeon HD 5670, ATI Radeon HD 5570, ATI Radeon HD 5500 Series,
+	REDWOOD, ATI Mobility Radeon Graphics, CEDAR, ATI FirePro 2270,
+	ATI Radeon HD 5450, CAYMAN, AMD Radeon HD 6900 Series,
+	AMD Radeon HD 6900M Series, Mobility Radeon HD 6000 Series, BARTS,
+	AMD Radeon HD 6800 Series, AMD Radeon HD 6700 Series, TURKS, CAICOS,
+	ARUBA, TAHITI, PITCAIRN, VERDE, OLAND, HAINAN, BONAIRE, KABINI,
+	MULLINS, KAVERI, HAWAII
+[    15.224] (II) modesetting: Driver for Modesetting Kernel Drivers: kms
+[    15.224] (II) [KMS] Kernel modesetting enabled.
+[    15.224] (WW) Falling back to old probe method for modesetting
+[    15.224] (WW) VGA arbiter: cannot open kernel arbiter, no multi-card support
+[    15.225] (II) RADEON(0): Creating default Display subsection in Screen section
+	"Default Screen Section" for depth/fbbpp 24/32
+[    15.225] (==) RADEON(0): Depth 24, (--) framebuffer bpp 32
+[    15.225] (II) RADEON(0): Pixel depth = 24 bits stored in 4 bytes (32 bpp pixmaps)
+[    15.225] (==) RADEON(0): Default visual is TrueColor
+[    15.225] (==) RADEON(0): RGB weight 888
+[    15.225] (II) RADEON(0): Using 8 bits per RGB (8 bit DAC)
+[    15.225] (--) RADEON(0): Chipset: "ATI Mobility Radeon X1400" (ChipID = 0x7145)
+[    15.225] (II) Loading sub module "fb"
+[    15.225] (II) LoadModule: "fb"
+[    15.225] (II) Loading /usr/lib/xorg/modules/libfb.so
+[    15.227] (II) Module fb: vendor="X.Org Foundation"
+[    15.227] 	compiled for 1.20.4, module version = 1.0.0
+[    15.227] 	ABI class: X.Org ANSI C Emulation, version 0.4
+[    15.227] (II) Loading sub module "dri2"
+[    15.227] (II) LoadModule: "dri2"
+[    15.227] (II) Module "dri2" already built-in
+[    15.227] (II) Loading sub module "exa"
+[    15.227] (II) LoadModule: "exa"
+[    15.227] (II) Loading /usr/lib/xorg/modules/libexa.so
+[    15.228] (II) Module exa: vendor="X.Org Foundation"
+[    15.229] 	compiled for 1.20.4, module version = 2.6.0
+[    15.229] 	ABI class: X.Org Video Driver, version 24.0
+[    15.229] (II) RADEON(0): KMS Color Tiling: enabled
+[    15.229] (II) RADEON(0): KMS Color Tiling 2D: disabled
+[    15.229] (==) RADEON(0): TearFree property default: auto
+[    15.229] (II) RADEON(0): KMS Pageflipping: enabled
+[    15.229] (II) RADEON(0): SwapBuffers wait for vsync: enabled
+[    15.254] (II) RADEON(0): Output VGA-0 has no monitor section
+[    15.255] (II) RADEON(0): Output LVDS has no monitor section
+[    15.256] (II) RADEON(0): Output DVI-0 has no monitor section
+[    15.257] (WW) RADEON(0): 3 ZaphodHeads crtcs unavailable. Some outputs will stay off.
+[    15.284] (II) RADEON(0): EDID for output VGA-0
+[    15.285] (II) RADEON(0): EDID for output LVDS
+[    15.285] (II) RADEON(0): Manufacturer: LEN  Model: 4022  Serial#: 0
+[    15.285] (II) RADEON(0): Year: 2007  Week: 23
+[    15.285] (II) RADEON(0): EDID Version: 1.3
+[    15.285] (II) RADEON(0): Digital Display Input
+[    15.285] (II) RADEON(0): Max Image Size [cm]: horiz.: 29  vert.: 21
+[    15.285] (II) RADEON(0): Gamma: 2.20
+[    15.285] (II) RADEON(0): DPMS capabilities: StandBy Suspend Off
+[    15.285] (II) RADEON(0): Supported color encodings: RGB 4:4:4 YCrCb 4:4:4 
+[    15.285] (II) RADEON(0): First detailed timing is preferred mode
+[    15.285] (II) RADEON(0): redX: 0.610 redY: 0.330   greenX: 0.300 greenY: 0.530
+[    15.285] (II) RADEON(0): blueX: 0.150 blueY: 0.130   whiteX: 0.313 whiteY: 0.329
+[    15.285] (II) RADEON(0): Manufacturer's mask: 0
+[    15.285] (II) RADEON(0): Supported detailed timing:
+[    15.285] (II) RADEON(0): clock: 108.0 MHz   Image Size:  287 x 215 mm
+[    15.285] (II) RADEON(0): h_active: 1400  h_sync: 1448  h_sync_end 1560 h_blank_end 1688 h_border: 0
+[    15.285] (II) RADEON(0): v_active: 1050  v_sync: 1051  v_sync_end 1054 v_blanking: 1066 v_border: 0
+[    15.285] (II) RADEON(0): Supported detailed timing:
+[    15.285] (II) RADEON(0): clock: 90.0 MHz   Image Size:  287 x 215 mm
+[    15.285] (II) RADEON(0): h_active: 1400  h_sync: 1448  h_sync_end 1560 h_blank_end 1688 h_border: 0
+[    15.285] (II) RADEON(0): v_active: 1050  v_sync: 1051  v_sync_end 1054 v_blanking: 1066 v_border: 0
+[    15.285] (II) RADEON(0): Unknown vendor-specific block f
+[    15.285] (II) RADEON(0):  LTD141EN9B
+[    15.285] (II) RADEON(0): EDID (in hex):
+[    15.285] (II) RADEON(0): 	00ffffffffffff0030ae224000000000
+[    15.285] (II) RADEON(0): 	17110103801d1578ea6f959c544c8726
+[    15.285] (II) RADEON(0): 	21505400000001010101010101010101
+[    15.285] (II) RADEON(0): 	010101010101302a7820511a10403070
+[    15.285] (II) RADEON(0): 	13001fd71000001825237820511a1040
+[    15.285] (II) RADEON(0): 	307013001fd7100000180000000f0090
+[    15.285] (II) RADEON(0): 	43329043280f010030640055000000fe
+[    15.285] (II) RADEON(0): 	004c5444313431454e39420a20200002
+[    15.285] (II) RADEON(0): Printing probed modes for output LVDS
+[    15.285] (II) RADEON(0): Modeline "1400x1050"x60.0  108.00  1400 1448 1560 1688  1050 1051 1054 1066 -hsync -vsync (64.0 kHz eP)
+[    15.285] (II) RADEON(0): Modeline "1400x1050"x50.0   89.97  1400 1448 1560 1688  1050 1051 1054 1066 -hsync -vsync (53.3 kHz e)
+[    15.285] (II) RADEON(0): Modeline "1280x1024"x59.9  109.10  1280 1368 1496 1712  1024 1027 1034 1063 -hsync +vsync (63.7 kHz)
+[    15.285] (II) RADEON(0): Modeline "1280x960"x60.0  101.34  1280 1360 1488 1696  960 963 967 996 -hsync +vsync (59.8 kHz)
+[    15.285] (II) RADEON(0): Modeline "1280x854"x60.0   89.34  1280 1352 1480 1680  854 857 867 887 -hsync +vsync (53.2 kHz)
+[    15.285] (II) RADEON(0): Modeline "1280x800"x60.0   83.71  1280 1352 1480 1680  800 803 809 831 -hsync +vsync (49.8 kHz)
+[    15.285] (II) RADEON(0): Modeline "1280x720"x60.0   74.65  1280 1344 1472 1664  720 723 728 748 -hsync +vsync (44.9 kHz)
+[    15.285] (II) RADEON(0): Modeline "1152x768"x59.9   71.95  1152 1216 1328 1504  768 771 781 798 -hsync +vsync (47.8 kHz)
+[    15.285] (II) RADEON(0): Modeline "1024x768"x59.9   63.53  1024 1072 1176 1328  768 771 775 798 -hsync +vsync (47.8 kHz)
+[    15.285] (II) RADEON(0): Modeline "800x600"x60.0   38.31  800 832 912 1024  600 603 607 624 -hsync +vsync (37.4 kHz)
+[    15.285] (II) RADEON(0): Modeline "848x480"x59.9   31.65  848 872 952 1056  480 483 493 500 -hsync +vsync (30.0 kHz)
+[    15.285] (II) RADEON(0): Modeline "720x480"x59.9   26.85  720 744 808 896  480 483 493 500 -hsync +vsync (30.0 kHz)
+[    15.285] (II) RADEON(0): Modeline "640x480"x59.9   23.98  640 664 720 800  480 483 487 500 -hsync +vsync (30.0 kHz)
+[    15.287] (II) RADEON(0): EDID for output DVI-0
+[    15.287] (II) RADEON(0): Output VGA-0 disconnected
+[    15.287] (II) RADEON(0): Output LVDS connected
+[    15.287] (II) RADEON(0): Output DVI-0 disconnected
+[    15.287] (II) RADEON(0): Using exact sizes for initial modes
+[    15.287] (II) RADEON(0): Output LVDS using initial mode 1400x1050 +0+0
+[    15.287] (II) RADEON(0): mem size init: gart size :1fdff000 vram size: s:8000000 visible:799c000
+[    15.287] (II) RADEON(0): EXA: Driver will allow EXA pixmaps in VRAM
+[    15.287] (==) RADEON(0): DPI set to (96, 96)
+[    15.287] (==) RADEON(0): Using gamma correction (1.0, 1.0, 1.0)
+[    15.287] (II) Loading sub module "ramdac"
+[    15.287] (II) LoadModule: "ramdac"
+[    15.287] (II) Module "ramdac" already built-in
+[    15.287] (II) UnloadModule: "modesetting"
+[    15.287] (II) Unloading modesetting
+[    15.288] (II) RADEON(0): [DRI2] Setup complete
+[    15.288] (II) RADEON(0): [DRI2]   DRI driver: r300
+[    15.288] (II) RADEON(0): [DRI2]   VDPAU driver: r300
+[    15.288] (II) RADEON(0): Front buffer size: 5775K
+[    15.288] (II) RADEON(0): VRAM usage limit set to 106848K
+[    15.291] (==) RADEON(0): DRI3 disabled
+[    15.291] (==) RADEON(0): Backing store enabled
+[    15.291] (II) RADEON(0): Direct rendering enabled
+[    15.291] (II) RADEON(0): Render acceleration enabled for R300/R400/R500 type cards.
+[    15.291] (II) EXA(0): Driver allocated offscreen pixmaps
+[    15.291] (II) EXA(0): Driver registered support for the following operations:
+[    15.291] (II)         Solid
+[    15.291] (II)         Copy
+[    15.291] (II)         Composite (RENDER acceleration)
+[    15.291] (II)         UploadToScreen
+[    15.291] (II)         DownloadFromScreen
+[    15.291] (II) RADEON(0): Acceleration enabled
+[    15.291] (==) RADEON(0): DPMS enabled
+[    15.291] (==) RADEON(0): Silken mouse disabled
+[    15.291] (II) RADEON(0): Set up textured video
+[    15.292] (II) RADEON(0): [XvMC] Associated with Radeon Textured Video.
+[    15.292] (II) RADEON(0): [XvMC] Extension initialized.
+[    15.294] (II) Initializing extension Generic Event Extension
+[    15.294] (II) Initializing extension SHAPE
+[    15.294] (II) Initializing extension MIT-SHM
+[    15.294] (II) Initializing extension XInputExtension
+[    15.295] (II) Initializing extension XTEST
+[    15.295] (II) Initializing extension BIG-REQUESTS
+[    15.295] (II) Initializing extension SYNC
+[    15.295] (II) Initializing extension XKEYBOARD
+[    15.295] (II) Initializing extension XC-MISC
+[    15.295] (II) Initializing extension SECURITY
+[    15.295] (II) Initializing extension XFIXES
+[    15.295] (II) Initializing extension RENDER
+[    15.295] (II) Initializing extension RANDR
+[    15.295] (II) Initializing extension COMPOSITE
+[    15.295] (II) Initializing extension DAMAGE
+[    15.295] (II) Initializing extension MIT-SCREEN-SAVER
+[    15.295] (II) Initializing extension DOUBLE-BUFFER
+[    15.295] (II) Initializing extension RECORD
+[    15.296] (II) Initializing extension DPMS
+[    15.296] (II) Initializing extension Present
+[    15.296] (II) Initializing extension DRI3
+[    15.296] (II) Initializing extension X-Resource
+[    15.296] (II) Initializing extension XVideo
+[    15.296] (II) Initializing extension XVideo-MotionCompensation
+[    15.296] (II) Initializing extension GLX
+[    15.771] (II) AIGLX: Loaded and initialized r300
+[    15.772] (II) GLX: Initialized DRI2 GL provider for screen 0
+[    15.772] (II) Initializing extension XFree86-VidModeExtension
+[    15.772] (II) Initializing extension XFree86-DGA
+[    15.772] (II) Initializing extension XFree86-DRI
+[    15.772] (II) Initializing extension DRI2
+[    15.772] (II) RADEON(0): Setting screen physical size to 370 x 277
+[    15.861] (II) config/udev: Adding input device Power Button (/dev/input/event2)
+[    15.861] (**) Power Button: Applying InputClass "libinput keyboard catchall"
+[    15.861] (II) LoadModule: "libinput"
+[    15.862] (II) Loading /usr/lib/xorg/modules/input/libinput_drv.so
+[    15.870] (II) Module libinput: vendor="X.Org Foundation"
+[    15.870] 	compiled for 1.20.3, module version = 0.28.2
+[    15.870] 	Module class: X.Org XInput Driver
+[    15.870] 	ABI class: X.Org XInput driver, version 24.1
+[    15.870] (II) Using input driver 'libinput' for 'Power Button'
+[    15.872] (II) systemd-logind: got fd for /dev/input/event2 13:66 fd 15 paused 0
+[    15.872] (**) Power Button: always reports core events
+[    15.872] (**) Option "Device" "/dev/input/event2"
+[    15.872] (**) Option "_source" "server/udev"
+[    15.884] (II) event2  - Power Button: is tagged by udev as: Keyboard
+[    15.884] (II) event2  - Power Button: device is a keyboard
+[    15.884] (II) event2  - Power Button: device removed
+[    15.884] (**) Option "config_info" "udev:/sys/devices/LNXSYSTM:00/LNXPWRBN:00/input/input2/event2"
+[    15.884] (II) XINPUT: Adding extended input device "Power Button" (type: KEYBOARD, id 6)
+[    15.886] (II) event2  - Power Button: is tagged by udev as: Keyboard
+[    15.886] (II) event2  - Power Button: device is a keyboard
+[    15.888] (II) config/udev: Adding input device Video Bus (/dev/input/event3)
+[    15.888] (**) Video Bus: Applying InputClass "libinput keyboard catchall"
+[    15.888] (II) Using input driver 'libinput' for 'Video Bus'
+[    15.890] (II) systemd-logind: got fd for /dev/input/event3 13:67 fd 18 paused 0
+[    15.890] (**) Video Bus: always reports core events
+[    15.890] (**) Option "Device" "/dev/input/event3"
+[    15.890] (**) Option "_source" "server/udev"
+[    15.892] (II) event3  - Video Bus: is tagged by udev as: Keyboard
+[    15.892] (II) event3  - Video Bus: device is a keyboard
+[    15.892] (II) event3  - Video Bus: device removed
+[    15.892] (**) Option "config_info" "udev:/sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A08:00/device:05/LNXVIDEO:01/input/input3/event3"
+[    15.892] (II) XINPUT: Adding extended input device "Video Bus" (type: KEYBOARD, id 7)
+[    15.895] (II) event3  - Video Bus: is tagged by udev as: Keyboard
+[    15.895] (II) event3  - Video Bus: device is a keyboard
+[    15.896] (II) config/udev: Adding input device Lid Switch (/dev/input/event0)
+[    15.896] (II) No input driver specified, ignoring this device.
+[    15.896] (II) This device may have been added with another device file.
+[    15.897] (II) config/udev: Adding input device Sleep Button (/dev/input/event1)
+[    15.897] (**) Sleep Button: Applying InputClass "libinput keyboard catchall"
+[    15.897] (II) Using input driver 'libinput' for 'Sleep Button'
+[    15.898] (II) systemd-logind: got fd for /dev/input/event1 13:65 fd 19 paused 0
+[    15.898] (**) Sleep Button: always reports core events
+[    15.898] (**) Option "Device" "/dev/input/event1"
+[    15.898] (**) Option "_source" "server/udev"
+[    15.900] (II) event1  - Sleep Button: is tagged by udev as: Keyboard
+[    15.900] (II) event1  - Sleep Button: device is a keyboard
+[    15.900] (II) event1  - Sleep Button: device removed
+[    15.900] (**) Option "config_info" "udev:/sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0C0E:00/input/input1/event1"
+[    15.900] (II) XINPUT: Adding extended input device "Sleep Button" (type: KEYBOARD, id 8)
+[    15.902] (II) event1  - Sleep Button: is tagged by udev as: Keyboard
+[    15.902] (II) event1  - Sleep Button: device is a keyboard
+[    15.903] (II) config/udev: Adding input device HDA Digital PCBeep (/dev/input/event6)
+[    15.903] (II) No input driver specified, ignoring this device.
+[    15.903] (II) This device may have been added with another device file.
+[    15.904] (II) config/udev: Adding input device AT Translated Set 2 keyboard (/dev/input/event4)
+[    15.904] (**) AT Translated Set 2 keyboard: Applying InputClass "libinput keyboard catchall"
+[    15.904] (II) Using input driver 'libinput' for 'AT Translated Set 2 keyboard'
+[    15.905] (II) systemd-logind: got fd for /dev/input/event4 13:68 fd 20 paused 0
+[    15.905] (**) AT Translated Set 2 keyboard: always reports core events
+[    15.905] (**) Option "Device" "/dev/input/event4"
+[    15.905] (**) Option "_source" "server/udev"
+[    15.907] (II) event4  - AT Translated Set 2 keyboard: is tagged by udev as: Keyboard
+[    15.907] (II) event4  - AT Translated Set 2 keyboard: device is a keyboard
+[    15.908] (II) event4  - AT Translated Set 2 keyboard: device removed
+[    15.908] (**) Option "config_info" "udev:/sys/devices/platform/i8042/serio0/input/input4/event4"
+[    15.908] (II) XINPUT: Adding extended input device "AT Translated Set 2 keyboard" (type: KEYBOARD, id 9)
+[    15.910] (II) event4  - AT Translated Set 2 keyboard: is tagged by udev as: Keyboard
+[    15.910] (II) event4  - AT Translated Set 2 keyboard: device is a keyboard
+[    15.912] (II) config/udev: Adding input device SynPS/2 Synaptics TouchPad (/dev/input/event7)
+[    15.912] (**) SynPS/2 Synaptics TouchPad: Applying InputClass "libinput touchpad catchall"
+[    15.912] (II) Using input driver 'libinput' for 'SynPS/2 Synaptics TouchPad'
+[    15.913] (II) systemd-logind: got fd for /dev/input/event7 13:71 fd 21 paused 0
+[    15.913] (**) SynPS/2 Synaptics TouchPad: always reports core events
+[    15.913] (**) Option "Device" "/dev/input/event7"
+[    15.913] (**) Option "_source" "server/udev"
+[    15.915] (II) event7  - SynPS/2 Synaptics TouchPad: is tagged by udev as: Touchpad
+[    15.991] (II) event7  - SynPS/2 Synaptics TouchPad: device is a touchpad
+[    15.991] (II) event7  - SynPS/2 Synaptics TouchPad: device removed
+[    15.992] (**) Option "config_info" "udev:/sys/devices/platform/i8042/serio1/input/input7/event7"
+[    15.992] (II) XINPUT: Adding extended input device "SynPS/2 Synaptics TouchPad" (type: TOUCHPAD, id 10)
+[    15.993] (**) Option "AccelerationScheme" "none"
+[    15.993] (**) SynPS/2 Synaptics TouchPad: (accel) selected scheme none/0
+[    15.993] (**) SynPS/2 Synaptics TouchPad: (accel) acceleration factor: 2.000
+[    15.993] (**) SynPS/2 Synaptics TouchPad: (accel) acceleration threshold: 4
+[    15.995] (II) event7  - SynPS/2 Synaptics TouchPad: is tagged by udev as: Touchpad
+[    16.011] (II) event7  - SynPS/2 Synaptics TouchPad: device is a touchpad
+[    16.013] (II) config/udev: Adding input device SynPS/2 Synaptics TouchPad (/dev/input/mouse0)
+[    16.013] (II) No input driver specified, ignoring this device.
+[    16.013] (II) This device may have been added with another device file.
+[    16.014] (II) config/udev: Adding input device TPPS/2 IBM TrackPoint (/dev/input/event8)
+[    16.014] (**) TPPS/2 IBM TrackPoint: Applying InputClass "libinput pointer catchall"
+[    16.014] (II) Using input driver 'libinput' for 'TPPS/2 IBM TrackPoint'
+[    16.015] (II) systemd-logind: got fd for /dev/input/event8 13:72 fd 22 paused 0
+[    16.015] (**) TPPS/2 IBM TrackPoint: always reports core events
+[    16.015] (**) Option "Device" "/dev/input/event8"
+[    16.015] (**) Option "_source" "server/udev"
+[    16.017] (II) event8  - TPPS/2 IBM TrackPoint: is tagged by udev as: Mouse Pointingstick
+[    16.017] (II) event8  - TPPS/2 IBM TrackPoint: device is a pointer
+[    16.018] (II) event8  - TPPS/2 IBM TrackPoint: device removed
+[    16.018] (**) Option "config_info" "udev:/sys/devices/platform/i8042/serio1/serio2/input/input9/event8"
+[    16.018] (II) XINPUT: Adding extended input device "TPPS/2 IBM TrackPoint" (type: MOUSE, id 11)
+[    16.019] (**) Option "AccelerationScheme" "none"
+[    16.019] (**) TPPS/2 IBM TrackPoint: (accel) selected scheme none/0
+[    16.019] (**) TPPS/2 IBM TrackPoint: (accel) acceleration factor: 2.000
+[    16.019] (**) TPPS/2 IBM TrackPoint: (accel) acceleration threshold: 4
+[    16.021] (II) event8  - TPPS/2 IBM TrackPoint: is tagged by udev as: Mouse Pointingstick
+[    16.021] (II) event8  - TPPS/2 IBM TrackPoint: device is a pointer
+[    16.023] (II) config/udev: Adding input device TPPS/2 IBM TrackPoint (/dev/input/mouse1)
+[    16.023] (II) No input driver specified, ignoring this device.
+[    16.023] (II) This device may have been added with another device file.
+[    16.024] (II) config/udev: Adding input device ThinkPad Extra Buttons (/dev/input/event5)
+[    16.024] (**) ThinkPad Extra Buttons: Applying InputClass "libinput keyboard catchall"
+[    16.024] (II) Using input driver 'libinput' for 'ThinkPad Extra Buttons'
+[    16.025] (II) systemd-logind: got fd for /dev/input/event5 13:69 fd 23 paused 0
+[    16.025] (**) ThinkPad Extra Buttons: always reports core events
+[    16.026] (**) Option "Device" "/dev/input/event5"
+[    16.026] (**) Option "_source" "server/udev"
+[    16.027] (II) event5  - ThinkPad Extra Buttons: is tagged by udev as: Keyboard Switch
+[    16.027] (II) event5  - ThinkPad Extra Buttons: device is a keyboard
+[    16.028] (II) event5  - ThinkPad Extra Buttons: device removed
+[    16.028] (**) Option "config_info" "udev:/sys/devices/platform/thinkpad_acpi/input/input6/event5"
+[    16.028] (II) XINPUT: Adding extended input device "ThinkPad Extra Buttons" (type: KEYBOARD, id 12)
+[    16.029] (II) event5  - ThinkPad Extra Buttons: is tagged by udev as: Keyboard Switch
+[    16.029] (II) event5  - ThinkPad Extra Buttons: device is a keyboard
+[    17.191] (II) RADEON(0): EDID vendor "LEN", prod id 16418
+[    17.191] (II) RADEON(0): Printing DDC gathered Modelines:
+[    17.191] (II) RADEON(0): Modeline "1400x1050"x0.0  108.00  1400 1448 1560 1688  1050 1051 1054 1066 -hsync -vsync (64.0 kHz eP)
+[    17.191] (II) RADEON(0): Modeline "1400x1050"x0.0   89.97  1400 1448 1560 1688  1050 1051 1054 1066 -hsync -vsync (53.3 kHz e)
+[    17.775] (II) RADEON(0): EDID vendor "LEN", prod id 16418
+[    17.775] (II) RADEON(0): Printing DDC gathered Modelines:
+[    17.775] (II) RADEON(0): Modeline "1400x1050"x0.0  108.00  1400 1448 1560 1688  1050 1051 1054 1066 -hsync -vsync (64.0 kHz eP)
+[    17.775] (II) RADEON(0): Modeline "1400x1050"x0.0   89.97  1400 1448 1560 1688  1050 1051 1054 1066 -hsync -vsync (53.3 kHz e)
+[    17.858] (II) RADEON(0): EDID vendor "LEN", prod id 16418
+[    17.858] (II) RADEON(0): Printing DDC gathered Modelines:
+[    17.858] (II) RADEON(0): Modeline "1400x1050"x0.0  108.00  1400 1448 1560 1688  1050 1051 1054 1066 -hsync -vsync (64.0 kHz eP)
+[    17.858] (II) RADEON(0): Modeline "1400x1050"x0.0   89.97  1400 1448 1560 1688  1050 1051 1054 1066 -hsync -vsync (53.3 kHz e)
+[    48.115] (II) Axis 0 value 5735 is outside expected range [1272, 5672]
+See https://wayland.freedesktop.org/libinput/doc/1.13.2/absolute_coordinate_ranges.html for details
+[   528.659] (EE) event7  - SynPS/2 Synaptics TouchPad: kernel bug: Touch jump detected and discarded.
+See https://wayland.freedesktop.org/libinput/doc/1.13.2/touchpad-jumping-cursors.html for details
+[   959.500] (**) Option "fd" "15"
+[   959.500] (II) event2  - Power Button: device removed
+[   959.500] (**) Option "fd" "18"
+[   959.500] (II) event3  - Video Bus: device removed
+[   959.501] (**) Option "fd" "19"
+[   959.501] (II) event1  - Sleep Button: device removed
+[   959.504] (**) Option "fd" "20"
+[   959.504] (II) event4  - AT Translated Set 2 keyboard: device removed
+[   959.504] (**) Option "fd" "21"
+[   959.504] (II) event7  - SynPS/2 Synaptics TouchPad: device removed
+[   959.505] (**) Option "fd" "22"
+[   959.505] (II) event8  - TPPS/2 IBM TrackPoint: device removed
+[   959.505] (**) Option "fd" "23"
+[   959.505] (II) event5  - ThinkPad Extra Buttons: device removed
+[   959.511] (II) UnloadModule: "libinput"
+[   959.511] (II) systemd-logind: releasing fd for 13:69
+[   959.524] (II) UnloadModule: "libinput"
+[   959.524] (II) systemd-logind: releasing fd for 13:72
+[   959.554] (II) UnloadModule: "libinput"
+[   959.554] (II) systemd-logind: releasing fd for 13:71
+[   959.581] (II) UnloadModule: "libinput"
+[   959.581] (II) systemd-logind: releasing fd for 13:68
+[   959.591] (II) UnloadModule: "libinput"
+[   959.591] (II) systemd-logind: releasing fd for 13:65
+[   959.604] (II) UnloadModule: "libinput"
+[   959.604] (II) systemd-logind: releasing fd for 13:67
+[   959.621] (II) UnloadModule: "libinput"
+[   959.621] (II) systemd-logind: releasing fd for 13:66
+[   959.633] (WW) xf86CloseConsole: KDSETMODE failed: Input/output error
+[   959.633] (WW) xf86CloseConsole: VT_GETMODE failed: Input/output error
+[   959.633] (WW) xf86CloseConsole: VT_ACTIVATE failed: Input/output error
+[   959.634] (II) Server terminated successfully (0). Closing log file.

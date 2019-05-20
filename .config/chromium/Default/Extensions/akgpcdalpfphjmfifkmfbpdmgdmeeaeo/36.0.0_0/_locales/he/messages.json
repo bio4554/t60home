@@ -1,0 +1,98 @@
+{
+   "allpage": {
+      "message": "תמונת מסך לכל אורך הדף"
+   },
+   "cancel": {
+      "message": "ביטול"
+   },
+   "canceled": {
+      "message": "הפעולה בוטלה"
+   },
+   "cannotscroll": {
+      "message": "לא ניתן לגלול את הדף\u003Cbr/>\u003Cbr/>נסה לסגור ולפתוח את הכרטיסייה מחדש"
+   },
+   "changeheaders": {
+      "message": "הוסף כותרת למעלה ולמטה"
+   },
+   "createimage": {
+      "message": " מחבר את התמונות..."
+   },
+   "date": {
+      "message": "תאריך"
+   },
+   "description": {
+      "message": "פתרון פשוט ומהיר לשמירה הדפסה ושיתוף של אתרי אינטרנט והפיכתם לתמונה"
+   },
+   "dir": {
+      "message": "rtl"
+   },
+   "filebug": {
+      "message": "לדווח על באג"
+   },
+   "footer": {
+      "message": "כותרת תחתונה"
+   },
+   "header": {
+      "message": "כותרת עליונה"
+   },
+   "height": {
+      "message": "גובה"
+   },
+   "imagesize": {
+      "message": "גודל התמונה:"
+   },
+   "likeresult": {
+      "message": "אהבת את התוצאה? אתה מוזמן לכתוב מחמאה קטנה, ולתת דירוג של 5 נקודות"
+   },
+   "loadcapturescript": {
+      "message": "מפעיל סקריפט ללכידת התמונה"
+   },
+   "name": {
+      "message": "תמונת מסך - Screenshot Extension"
+   },
+   "noall": {
+      "message": "לא ניתן לגלול דף מסוג זה  (תוספים לא עובדים בדפים פנימיים של כרום, או בגלריית התוספים)"
+   },
+   "noresize": {
+      "message": "ללא שיוני גודל"
+   },
+   "openimage": {
+      "message": "לחץ כאן בכדי לפתוח את התמונה"
+   },
+   "or": {
+      "message": "או"
+   },
+   "preview": {
+      "message": "תצוגה מקדימה:"
+   },
+   "resize": {
+      "message": "שנה גודל חלון: "
+   },
+   "resizebefore": {
+      "message": "שנה גודל חלון לפני לקיחת לכידת התמונה"
+   },
+   "takecapture": {
+      "message": "התחל בפעולה"
+   },
+   "takingcapture": {
+      "message": "לוקח תמונה מסך"
+   },
+   "tosavemessage": {
+      "message": "לשמירת התמונה לחץ עליה לחצן ימני, ובחר באפשרות השמירה"
+   },
+   "url": {
+      "message": "URL"
+   },
+   "visiblescreenshot": {
+      "message": "האתר הנראה"
+   },
+   "wait": {
+      "message": "המתן"
+   },
+   "width": {
+      "message": "רוחב"
+   },
+   "zoom": {
+      "message": "הגדלה"
+   }
+}

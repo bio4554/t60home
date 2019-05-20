@@ -1,0 +1,217 @@
+/* Reset */
+
+#chrome_page_monitor_selector, #chrome_page_monitor_selector * {
+  box-sizing: content-box !important;
+  display: block !important;
+  position: static !important;
+  bottom: auto !important;
+  top: auto !important;
+  right: auto !important;
+  left: auto !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  float: none !important;
+  clear: none !important;
+  overflow: visible !important;
+  visibility: visible !important;
+  z-index: 9999999999 !important;
+  cursor: auto !important;
+  border: none !important;
+  outline: none !important;
+  height: auto !important;
+  min-height: auto !important;
+  max-height: auto !important;
+  background: transparent !important;
+  font-family: verdana, helvetica, arial, sans-serif;
+  font-size: 12px !important;
+  font-weight: normal !important;
+  font-style: normal !important;
+  font-variant: normal !important;
+  list-style-type: none !important;
+  list-style-image: none !important;
+  color: #999999 !important;
+  direction: ltr !important;
+  letter-spacing: normal !important;
+  line-height: normal !important;
+  text-align: center !important;
+  text-decoration: none !important;
+  text-indent: 0 !important;
+  text-shadow: none !important;
+  vertical-align: baseline !important;
+  white-space: normal !important;
+  word-space: normal !important;
+}
+
+/* Container */
+
+body {
+  margin: 73px 0 0 !important;
+}
+
+#chrome_page_monitor_selector {
+  width: 100% !important;
+  clear: both !important;
+  position: fixed !important;
+  background-color: #FAFAFA !important;
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,0.2) !important;
+  margin: 0 !important;
+  left: 0 !important;
+  margin-bottom: 6px !important;
+  top: 0px !important;
+}
+#chrome_page_monitor_selector .details {
+  width: 75% !important;
+  margin: 0 auto !important;
+  position: relative !important;
+}
+
+#chrome_page_monitor_selector .submenu {
+  float: left !important;
+  position: relative !important;
+  top: 28px !important;
+  left: 18px !important;
+  max-width: 560px !important;
+}
+
+#chrome_page_monitor_selector .job-submitted {
+  display: none !important;
+  float: left !important;
+  position: relative !important;
+  top: 28px !important;
+  left: 18px !important;
+  max-width: 560px !important;
+}
+#chrome_page_monitor_selector .job-submitted .job-submitted-column {
+  float: left !important;
+  width: 33% !important;
+  text-align: left !important;
+}
+#chrome_page_monitor_selector .job-submitted .job-submitted-column p {
+  text-align: left !important;
+}
+#chrome_page_monitor_selector .job-submitted .job-submitted-column img {
+  float: left !important;
+  margin-right: 12px !important;
+  vertical-align: middle !important;
+}
+
+/* Outlines */
+
+.chrome_page_monitor_temp_outline,
+tr.chrome_page_monitor_temp_outline>td,
+tbody.chrome_page_monitor_temp_outline>tr>td,
+thead.chrome_page_monitor_temp_outline>tr>td,
+tfoot.chrome_page_monitor_temp_outline>tr>td  {
+  outline: #56D2AA dashed 2px !important;
+}
+
+.chrome_page_monitor_outline,
+tr.chrome_page_monitor_outline>td,
+tbody.chrome_page_monitor_outline>tr>td,
+thead.chrome_page_monitor_outline>tr>td,
+tfoot.chrome_page_monitor_outline>tr>td {
+  outline: #B70016 dashed 2px !important;
+}
+
+/* Controls */
+
+#chrome_page_monitor_selector .submenu input[type=button] {
+  cursor: pointer !important;
+  width: auto !important;
+  margin-top: 5px !important;
+  display: inline-block !important;
+  background: #56D2AA !important;
+  border-radius: 4px !important;
+  width: 150px !important;
+  font-size: 12px !important;
+  margin: 0 4px !important;
+  padding: 4px 6px 5px !important;
+  vertical-align: middle !important;
+  border-radius: 4px !important;
+  box-shadow: 0 2px 1px 0 #328A6D !important;
+  text-shadow: #328A6D 0px -1px 1px !important;
+  color: #FFFFFF !important;
+  font-size: 14px !important;
+}
+
+#chrome_page_monitor_selector .submenu input[type=button]:hover {
+  background: #31B98E !important;
+  cursor: pointer !important;
+}
+
+#chrome_page_monitor_selector .submenu input[type=button]:disabled {
+  color: #EAEAEA !important;
+}
+
+#chrome_page_monitor_selector .sidemenu {
+  position: absolute !important;
+  right: 12px !important;
+  margin-top: 12px !important;
+}
+#chrome_page_monitor_selector .sidemenu a {
+  display: inline-block !important;
+  border-radius: 11px !important;
+  height: 22px !important;
+  width: 22px !important;
+  background: #EEEEEE !important;
+  box-shadow: 0px 1px 1px 0px rgba(195,195,195,0.50), inset 0px 1px 1px 0px rgba(255,255,255,0.50) !important;
+  text-align: center !important;
+  vertical-align: baseline !important;
+  color: #999999 !important;
+}
+#chrome_page_monitor_selector .sidemenu a:hover {
+  cursor: pointer !important;
+}
+#chrome_page_monitor_selector .sidemenu a img {
+  display: inline-block !important;
+  padding: 5px !important;
+}
+#chrome_page_monitor_selector .sidemenu a img:hover {
+  cursor: pointer !important;
+}
+
+#chrome_page_monitor_selector span {
+  cursor: pointer !important;
+  margin-top: 5px !important;
+  display: inline-block !important;
+  background-image: linear-gradient(-180deg, #FFFFFF 0%, #EDEDED 100%) !important;
+  border: 1px solid #D2D2D2 !important;
+  width: 150px !important;
+  border-radius: 4px !important;
+  font-size: 12px !important;
+  margin: 0 4px !important;
+  padding: 4px 6px 5px !important;
+  color: #787878 !important;
+  vertical-align: middle !important;
+}
+
+#chrome_page_monitor_selector span:hover {
+  background-image: linear-gradient(-180deg, #F6F6F6 0%, #E6E6E6 100%) !important;
+  border: 1px solid #D2D2D2 !important;
+  cursor: pointer !important;
+}
+
+#chrome_page_monitor_selector .chrome_page_monitor_active {
+  display: inline-block !important;
+  width: 150px !important;
+  background-image: linear-gradient(-180deg, #BBBBBB 0%, #DFDFDF 77%) !important;
+  box-shadow: inset 0px 1px 3px 0px rgba(0,0,0,0.50) !important;
+  border-radius: 4px !important;
+  font-size: 12px !important;
+  margin: 0 4px !important;
+  padding: 4px 6px 5px !important;
+  color: #606060 !important;
+  vertical-align: middle !important;
+}
+
+#chrome_page_monitor_selector .chrome_page_monitor_disabled,
+#chrome_page_monitor_selector .chrome_page_monitor_disabled:hover {
+  cursor: auto !important;
+  color: #999 !important;
+  text-shadow: none !important;
+}
+
+#chrome_page_monitor_selector img.visual-logo {
+  float: left !important;
+  margin: 18px !important;
+}

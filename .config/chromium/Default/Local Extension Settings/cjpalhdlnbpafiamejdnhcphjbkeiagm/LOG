@@ -1,0 +1,21 @@
+2019/05/20-11:35:10.292 368 Reusing MANIFEST /home/bio4554/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2019/05/20-11:35:10.293 368 Recovering log #12
+2019/05/20-11:35:10.331 368 Reusing old log /home/bio4554/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000012.log 
+2019/05/20-11:40:13.603 49f Level-0 table #16: started
+2019/05/20-11:40:13.733 49f Level-0 table #16: 2363064 bytes OK
+2019/05/20-11:40:13.760 49f Delete type=0 #12
+2019/05/20-11:40:14.489 49f Level-0 table #18: started
+2019/05/20-11:40:14.607 49f Level-0 table #18: 1507533 bytes OK
+2019/05/20-11:40:14.640 49f Delete type=0 #15
+2019/05/20-11:40:14.642 49f Compacting 4@0 + 1@1 files
+2019/05/20-11:40:14.878 49f Generated table #19@0: 9 keys, 2257656 bytes
+2019/05/20-11:40:15.011 49f Generated table #20@0: 9 keys, 2290241 bytes
+2019/05/20-11:40:15.121 49f Generated table #21@0: 7 keys, 2766933 bytes
+2019/05/20-11:40:15.190 49f Generated table #22@0: 8 keys, 1423758 bytes
+2019/05/20-11:40:15.190 49f Compacted 4@0 + 1@1 files => 8738588 bytes
+2019/05/20-11:40:15.220 49f compacted to: files[ 0 4 1 0 0 0 0 ]
+2019/05/20-11:40:15.220 49f Delete type=2 #18
+2019/05/20-11:40:15.221 49f Delete type=2 #13
+2019/05/20-11:40:15.221 49f Delete type=2 #16
+2019/05/20-11:40:15.222 49f Delete type=2 #8
+2019/05/20-11:40:15.223 49f Delete type=2 #10

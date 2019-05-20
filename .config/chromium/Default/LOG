@@ -1,0 +1,12 @@
+2019/05/13-14:31:44.193 69f0 Recovering log #15
+2019/05/13-14:31:44.194 69f0 Level-0 table #17: started
+2019/05/13-14:31:44.219 69f0 Level-0 table #17: 606 bytes OK
+2019/05/13-14:31:44.277 69f0 Delete type=3 #13
+2019/05/13-14:31:44.277 69f0 Delete type=0 #15
+2019/05/13-14:31:44.277 4dc Compacting 4@0 + 0@1 files
+2019/05/13-14:31:44.281 4dc Compacted 4@0 + 0@1 files => 0 bytes
+2019/05/13-14:31:44.315 4dc compacted to: files[ 0 1 0 0 0 0 0 ]
+2019/05/13-14:31:44.316 4dc Delete type=2 #5
+2019/05/13-14:31:44.317 4dc Delete type=2 #17
+2019/05/13-14:31:44.317 4dc Delete type=2 #8
+2019/05/13-14:31:44.317 4dc Delete type=2 #14

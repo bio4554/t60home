@@ -1,0 +1,101 @@
+{
+   "allpage": {
+      "message": "抓下整個網頁的快照"
+   },
+   "cancel": {
+      "message": "取消"
+   },
+   "canceled": {
+      "message": "已取消!"
+   },
+   "cannotscroll": {
+      "message": "不能向下捲動本網頁! \u003Cbr>\u003Cbr/>請嘗試重新開啟該頁。"
+   },
+   "changeheaders": {
+      "message": "改變頁首和頁尾"
+   },
+   "createimage": {
+      "message": "製造影像中…"
+   },
+   "date": {
+      "message": "日期"
+   },
+   "description": {
+      "message": "快速和簡單地儲存一張JPG的網頁快照。第一個插件能夠抓下整個網頁!"
+   },
+   "dir": {
+      "message": "ltr"
+   },
+   "filebug": {
+      "message": "你可以傳送一個錯誤報告"
+   },
+   "footer": {
+      "message": "頁尾"
+   },
+   "header": {
+      "message": "頁首"
+   },
+   "height": {
+      "message": "高"
+   },
+   "imagesize": {
+      "message": "圖片大小:"
+   },
+   "likeresult": {
+      "message": "認為效果好嗎? 你可以寫下一個好的意見，給我5星也行"
+   },
+   "loadcapturescript": {
+      "message": "程式碼載入中…"
+   },
+   "name": {
+      "message": "網頁快照 - Screenshot Extension"
+   },
+   "new": {
+      "message": "新"
+   },
+   "noall": {
+      "message": "不能向下捲動本網頁! (於chrome://的頁面和Google擴充插件庫頁上不能使用)"
+   },
+   "noresize": {
+      "message": "不能改變大小"
+   },
+   "openimage": {
+      "message": "按此開啟圖片"
+   },
+   "or": {
+      "message": "或"
+   },
+   "preview": {
+      "message": "預覽:"
+   },
+   "resize": {
+      "message": "改變大小至: "
+   },
+   "resizebefore": {
+      "message": "抓下圖片前改變大小"
+   },
+   "takecapture": {
+      "message": "立即抓下圖片"
+   },
+   "takingcapture": {
+      "message": "抓下網頁快照中…"
+   },
+   "tosavemessage": {
+      "message": "要儲存圖片，請在圖片上按一下右鍵然後按「另存影像為…」"
+   },
+   "url": {
+      "message": "網址"
+   },
+   "visiblescreenshot": {
+      "message": "抓下網頁中能見範圍的快照"
+   },
+   "wait": {
+      "message": "請稍等"
+   },
+   "width": {
+      "message": "寬"
+   },
+   "zoom": {
+      "message": "放大"
+   }
+}

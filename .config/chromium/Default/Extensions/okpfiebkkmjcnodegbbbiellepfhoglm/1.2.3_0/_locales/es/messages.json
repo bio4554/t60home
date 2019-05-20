@@ -1,0 +1,41 @@
+{
+   "ca": {
+      "message": "catal&aacute;n"
+   },
+   "en": {
+      "message": "ingl&eacute;s"
+   },
+   "es": {
+      "message": "espa&ntilde;ol"
+   },
+   "extDesc": {
+      "message": "Convierte cualquier página web en un e-book"
+   },
+   "lang": {
+      "message": "es"
+   },
+   "langtxt": {
+      "message": "Idioma de dotEPUB"
+   },
+   "note": {
+      "message": "En el modo inmersivo, se eliminarán los enlaces, no se ofrecerá la posibilidad de conservar las imágenes ni se indicará dónde había imágenes o vídeos."
+   },
+   "opt": {
+      "message": "Opciones"
+   },
+   "remove": {
+      "message": "Modo inmersivo"
+   },
+   "save": {
+      "message": "Guardar"
+   },
+   "saved": {
+      "message": "Guardado"
+   },
+   "wmsg": {
+      "message": "Esta extensión solamente puede ejecutarse una vez en la misma página web a no ser que vuelvas a cargar esa página."
+   },
+   "wtitle": {
+      "message": "Advertencia:"
+   }
+}

@@ -1,0 +1,41 @@
+{
+   "ca": {
+      "message": "Catalan"
+   },
+   "en": {
+      "message": "English"
+   },
+   "es": {
+      "message": "Spanish"
+   },
+   "extDesc": {
+      "message": "Convert any webpage into an e-book"
+   },
+   "lang": {
+      "message": "en"
+   },
+   "langtxt": {
+      "message": "dotEPUB language"
+   },
+   "note": {
+      "message": "In the immersive mode, links will be removed, you will not be offered the possibility of keeping images and there will be no indication where removed images and videos were."
+   },
+   "opt": {
+      "message": "Options"
+   },
+   "remove": {
+      "message": "Immersive mode"
+   },
+   "save": {
+      "message": "Save"
+   },
+   "saved": {
+      "message": "Saved"
+   },
+   "wmsg": {
+      "message": "This extension can only be run once on the same webpage unless you reload that page."
+   },
+   "wtitle": {
+      "message": "Warning:"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "author": "rileyjshaw",
+   "chrome_url_overrides": {
+      "newtab": "home.html"
+   },
+   "description": "A minimal New Tab page",
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon16.png",
+      "48": "icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjd2UnBOpZolQ2kwyLYeQfz0/Z8DyDdBZWYqFjIbQKVIT613KHSZhIDVu2SVZL4QU5Z3BfjPic5YjtBalkuUEOB1XXmnmxonYrgPATqHLPCBY3opzNOE8DssFxKHI9woZQvUBRF5l5erIHldkq4tC9D7Oxd4+5u85F2wtnW2XmYkFFmLPtcRKmG6LmJVCgRpGVRm5srHFa26i6KxqvtZRxTq8zKMu4cMuVXNZAhGXs4LH4ACdOKMSo6N1gLjriAcFAvphnWSH9MukKAk6IP357Y3iJKw/DqWqTVZVymMenfCG9bTwXK2csUoVvPOny5ETX6jn+a159KK7EzmV18JXkQIDAQAB",
+   "manifest_version": 2,
+   "name": "Placid Tab New Tab Page",
+   "options_page": "options.html",
+   "short_name": "Placid Tab",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.0.0"
+}

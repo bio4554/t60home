@@ -1,0 +1,41 @@
+{
+   "ca": {
+      "message": "catal&agrave;"
+   },
+   "en": {
+      "message": "angl&egrave;s"
+   },
+   "es": {
+      "message": "espanyol"
+   },
+   "extDesc": {
+      "message": "Converteix qualsevol pàgina web en un e-book"
+   },
+   "lang": {
+      "message": "ca"
+   },
+   "langtxt": {
+      "message": "Idioma de dotEPUB"
+   },
+   "note": {
+      "message": "En el mode immersiu, s&rsquo;eliminaran els enllaços, no s&rsquo;oferirà la possibilitat de conservar les imatges ni s&rsquo;indicarà on hi havia imatges o vídeos."
+   },
+   "opt": {
+      "message": "Opcions"
+   },
+   "remove": {
+      "message": "Mode immersiu"
+   },
+   "save": {
+      "message": "Desar"
+   },
+   "saved": {
+      "message": "Desat"
+   },
+   "wmsg": {
+      "message": "Aquesta extensió només pot executar-se un cop en la mateixa pàgina web llevat que tornis a carregar la pàgina."
+   },
+   "wtitle": {
+      "message": "Advertiment:"
+   }
+}

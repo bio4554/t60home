@@ -1,0 +1,98 @@
+{
+   "allpage": {
+      "message": "Zajemi celotno spletno stran"
+   },
+   "cancel": {
+      "message": "prekliči"
+   },
+   "canceled": {
+      "message": "Zajemanje preklicano!"
+   },
+   "cannotscroll": {
+      "message": "Zajem celotne strani ni mogoč \u003Cbr>\u003Cbr/>Poskusite ponovno naložiti stran"
+   },
+   "changeheaders": {
+      "message": "Spremenite glavo in nogo"
+   },
+   "createimage": {
+      "message": " Ustvarjam slikovno datoteko..."
+   },
+   "date": {
+      "message": "Datum"
+   },
+   "description": {
+      "message": "Hitra in enostavna rešitev za zajem JPG slike katerekoli spletne strani. Prva razširitev, ki zajame celotno stran!"
+   },
+   "dir": {
+      "message": "ltr"
+   },
+   "filebug": {
+      "message": "Nam pošljete poročilo napake"
+   },
+   "footer": {
+      "message": "Noga"
+   },
+   "header": {
+      "message": "Glava"
+   },
+   "height": {
+      "message": "višina"
+   },
+   "imagesize": {
+      "message": "Velikost slike:"
+   },
+   "likeresult": {
+      "message": "Vam je všeč razultat? Lahko objavite komentar in nam podarite 5 zvezdic"
+   },
+   "loadcapturescript": {
+      "message": "Nalagam skripti..."
+   },
+   "name": {
+      "message": "Zajemalec spletne strani - Screenshot Extension"
+   },
+   "noall": {
+      "message": "Zajem celotne spletne strani ni mogoč (Razširitev ne deluje na Chromovih lokalnih straneh ter galerij razšeritev)"
+   },
+   "noresize": {
+      "message": "Ne spremeni velikosti"
+   },
+   "openimage": {
+      "message": "Kliknite tukaj da odprete sliko"
+   },
+   "or": {
+      "message": "ali"
+   },
+   "preview": {
+      "message": "Predogled:"
+   },
+   "resize": {
+      "message": "Spremeni velikost: "
+   },
+   "resizebefore": {
+      "message": "Spremenite izbiro pred zajemom"
+   },
+   "takecapture": {
+      "message": "Zajemite sliko sedaj"
+   },
+   "takingcapture": {
+      "message": "Zajemam sliko"
+   },
+   "tosavemessage": {
+      "message": "Za shranitev slike, kliknite z desno tipko in izberite \"Shrani sliko\""
+   },
+   "url": {
+      "message": "URL"
+   },
+   "visiblescreenshot": {
+      "message": "Zajemi le kar trenutno vidiš"
+   },
+   "wait": {
+      "message": "počakajte"
+   },
+   "width": {
+      "message": "širina"
+   },
+   "zoom": {
+      "message": "Približaj"
+   }
+}

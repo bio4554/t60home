@@ -1,0 +1,98 @@
+{
+   "allpage": {
+      "message": "Screenshot på hela sidan"
+   },
+   "cancel": {
+      "message": "Avbryt"
+   },
+   "canceled": {
+      "message": "Abruten!"
+   },
+   "cannotscroll": {
+      "message": "Kan inte scrolla sidan\u003Cbr>\u003Cbr/>Försök att återöppna sidan"
+   },
+   "changeheaders": {
+      "message": "Ändra sidhuvud och sidfot"
+   },
+   "createimage": {
+      "message": "Gör foto fil..."
+   },
+   "date": {
+      "message": "Datum"
+   },
+   "description": {
+      "message": "Snabb och enkel lösning för att spara JPG skärmdumpar av en webbsida. Den första förlängningen att fånga hela sidan."
+   },
+   "dir": {
+      "message": "ltr"
+   },
+   "filebug": {
+      "message": "Du can göra en Felrapport"
+   },
+   "footer": {
+      "message": "Sidfot"
+   },
+   "header": {
+      "message": "Rubrik"
+   },
+   "height": {
+      "message": "Höjd"
+   },
+   "imagesize": {
+      "message": "Bildstorlek:"
+   },
+   "likeresult": {
+      "message": "Gillar du resultatet? Du kan skriva en fin kommentar, och ge fem stjärnor"
+   },
+   "loadcapturescript": {
+      "message": "Laddar Script..."
+   },
+   "name": {
+      "message": "Print Screen - Screenshot Extension"
+   },
+   "noall": {
+      "message": "kan inte rulla den här sidan (Tillägg kan inte arbeta på interna Chrome sidor och inte heller om Chrome förlängningar galleri)"
+   },
+   "noresize": {
+      "message": "Ingen storleksändring"
+   },
+   "openimage": {
+      "message": "Klicka här för att öppna bilden"
+   },
+   "or": {
+      "message": "Eller"
+   },
+   "preview": {
+      "message": "Förhandsgranska:"
+   },
+   "resize": {
+      "message": "Storleksändra till: "
+   },
+   "resizebefore": {
+      "message": "Ändra storlek på fönster innan bildtagning"
+   },
+   "takecapture": {
+      "message": "Ta bild nu"
+   },
+   "takingcapture": {
+      "message": "Tar foto"
+   },
+   "tosavemessage": {
+      "message": "För att spara bilden, Högerklicka på den och välj \"Save Image\""
+   },
+   "url": {
+      "message": "URL"
+   },
+   "visiblescreenshot": {
+      "message": "Synlig Screenshot"
+   },
+   "wait": {
+      "message": "Vänta"
+   },
+   "width": {
+      "message": "Bredd"
+   },
+   "zoom": {
+      "message": "Zooma"
+   }
+}

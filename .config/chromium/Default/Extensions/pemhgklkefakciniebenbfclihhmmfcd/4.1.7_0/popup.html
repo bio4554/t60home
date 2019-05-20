@@ -1,0 +1,167 @@
+<!DOCTYPE html><html><head><meta charset="UTF-8"><title>VisualPing</title><style>body { width: 440px; background-color: white; margin:0; }</style></head><body><div id="root" class="visualapp"></div><script src="/js/popup.bundle.js"></script><style>body {
+  user-select: none;
+  min-width: 400px;
+  overflow-x: hidden;
+  font-family: verdana, helvetica, arial, sans-serif;
+}
+/* For ReactTooltip */
+.__react_component_tooltip {
+  font-size: 11px !important;
+  max-width: 120px;
+  text-align: 'center';
+}
+.__react_component_tooltip.show {
+  opacity: 1;
+}
+h3 {
+  font-size: 13px;
+  color: #43A8E1;
+}
+.screen {
+  position: relative;
+  border-radius: 3px;
+  overflow: hidden;
+  width: 392px;
+  margin: 0 auto;
+  border: 1px solid #DDD;
+  box-sizing: border-box;
+  box-shadow: 0 4px 16px 0 rgba(0, 0, 0, 0.5);
+}
+.screen .title {
+  position: absolute;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(252, 253, 255, 0.00)), to(rgba(0, 0, 0, 0.50)));
+  background-image: -webkit-linear-gradient(top, rgba(252, 253, 255, 0.00), rgba(0, 0, 0, 0.50));
+  background-image: linear-gradient(top, rgba(252, 253, 255, 0.00), rgba(0, 0, 0, 0.50));
+  height: 26px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  border-radius: 0 0 3px 3px;
+  color: #FFF;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2);
+  padding-top: 90px;
+  padding-left: 15px;
+  padding-right: 15px;
+  font-size: 12px;
+  font-weight: normal;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
+#target {
+    width: 400px;
+    margin-left: -50px;
+}
+.logo {
+  text-align: center;
+  padding-bottom: 5px;
+}
+.fld {
+  display: block;
+  box-sizing: border-box;
+  width: 100%;
+  margin-top: 15px;
+  font-size: 16px;
+  padding: 10px;
+  line-height: 1.2;
+  background: none;
+  border: 1px solid #B5C6D2;
+  border-radius: 4px;
+}
+.fld:focus {
+  outline: none;
+  border-color: #51A8E3;
+}
+.btn {
+    margin-top: 15px;
+    display: block;
+    background: #a8cc60;
+    padding: 12px;
+    color: #FFF;
+    font-weight: bold;
+    font-size: 18px;
+    text-align: center;
+    border-radius: 3px;
+    text-decoration: none;
+}
+.btn.disabled {
+    background: #DDD;
+    color: #666;
+}
+.btn:hover {
+    background: #97bc4e;
+}
+.btn:active {
+    background: #7cb607;
+}
+.btn:focus {
+    outline: none;
+}
+.btn.disabled:hover {
+    background: #DDD;
+    color: #666;
+}
+.lnk {
+    display: block;
+    text-align: center;
+    font-size: 12px;
+    color: #BBB;
+    margin-top: 10px;
+    text-decoration: none;
+}
+.lnk:hover {
+    text-decoration: underline;
+}
+.imgareaselect-border1 {
+    background: url(img/border-anim-v.gif) repeat-y left top;
+}
+
+.imgareaselect-border2 {
+    background: url(img/border-anim-h.gif) repeat-x left top;
+}
+
+.imgareaselect-border3 {
+    background: url(img/border-anim-v.gif) repeat-y right top;
+}
+
+.imgareaselect-border4 {
+    background: url(img/border-anim-h.gif) repeat-x left bottom;
+}
+
+.imgareaselect-border1, .imgareaselect-border2,
+.imgareaselect-border3, .imgareaselect-border4 {
+    filter: alpha(opacity=50);
+    opacity: 0.5;
+}
+
+.imgareaselect-handle {
+    background-color: #fff;
+    border: solid 1px #000;
+    filter: alpha(opacity=50);
+    opacity: 0.5;
+}
+
+.imgareaselect-outer {
+    border-color: #000;
+    background-color: #000;
+    filter: alpha(opacity=50);
+    opacity: 0.5;
+}
+
+.imgareaselect-selection {  
+}
+.grid {
+  overflow: hidden;
+}
+.col-left {
+  float: left;
+  width: 50%;
+  box-sizing: border-box;
+  padding-right: 10px;
+}
+.col-right {
+  float: right;
+  width: 50%;
+  box-sizing: border-box;
+  padding-left: 10px;
+}</style></body></html>

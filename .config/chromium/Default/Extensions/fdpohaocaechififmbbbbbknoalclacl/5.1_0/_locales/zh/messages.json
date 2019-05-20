@@ -1,0 +1,34 @@
+{
+   "goPremiumHeader": {
+      "description": "Take your screenshots to the next level with Full Page Screen Capture Premium",
+      "message": "享受高级截图体验，选择“全页截图尊享版”"
+   },
+   "goPremiumLink": {
+      "description": "Get started (free 1-week trial)",
+      "message": "开始体验（免费一周体验版）"
+   },
+   "goPremiumSignInLink": {
+      "description": "Sign in",
+      "message": "登录"
+   },
+   "goPremiumSignInMessage": {
+      "description": "Already have an account?",
+      "message": "已有账户？"
+   },
+   "goPremiumSubHeader": {
+      "description": "Including advanced editing and annotation features of screenshots",
+      "message": "包含高阶编辑和标注功能"
+   },
+   "tryEditingNo": {
+      "description": "No thanks",
+      "message": "不了，谢谢"
+   },
+   "tryEditingRequest": {
+      "description": "Try editing and annotating your screenshot",
+      "message": "请尝试编辑和标注您的截图"
+   },
+   "tryEditingYes": {
+      "description": "Ok!",
+      "message": "好的！"
+   }
+}

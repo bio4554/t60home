@@ -1,0 +1,98 @@
+{
+   "allpage": {
+      "message": "Toàn bộ trang web"
+   },
+   "cancel": {
+      "message": "Hủy"
+   },
+   "canceled": {
+      "message": "Đã hủy!"
+   },
+   "cannotscroll": {
+      "message": "Không thể cuộn trang\u003Cbr>\u003Cbr/>Hãy thử mở lại tab này "
+   },
+   "changeheaders": {
+      "message": "Đổi nội dung trên đầu và dưới chân"
+   },
+   "createimage": {
+      "message": " Đang tạo ảnh..."
+   },
+   "date": {
+      "message": "ngày"
+   },
+   "description": {
+      "message": "Chụp bất cứ trang web thành một hình JPG một cách nhanh chóng và đơn giản. Phần mở rộng đầu tiên để chụp toàn bộ trang web."
+   },
+   "dir": {
+      "message": "ltr"
+   },
+   "filebug": {
+      "message": "Bạn có thể báo cáo lỗi"
+   },
+   "footer": {
+      "message": "Dưới chân"
+   },
+   "header": {
+      "message": "Trên đầu"
+   },
+   "height": {
+      "message": "chiều cao"
+   },
+   "imagesize": {
+      "message": "Kích thước hình:"
+   },
+   "likeresult": {
+      "message": "Thích kết quả này? Bạn có thể viết một bình luận và cho 5 sao"
+   },
+   "loadcapturescript": {
+      "message": "Đang nạp ảnh"
+   },
+   "name": {
+      "message": "Chụp hình trang web - Screenshot Extension"
+   },
+   "noall": {
+      "message": "Không thể cuộn trang này (Phần mở rộng không thể hoạt động trên một trang bên trong Chrome cũng như thư viện các phần mở rộng Chrome"
+   },
+   "noresize": {
+      "message": "Giữ nguyên"
+   },
+   "openimage": {
+      "message": "Nhấp vào đây để mở hình"
+   },
+   "or": {
+      "message": "hoặc"
+   },
+   "preview": {
+      "message": "Xem trước:"
+   },
+   "resize": {
+      "message": "Chỉnh lại đến: "
+   },
+   "resizebefore": {
+      "message": "Chỉnh kích thước cửa sổ trước khi chụp"
+   },
+   "takecapture": {
+      "message": "Chụp Hình Ngay"
+   },
+   "takingcapture": {
+      "message": "Đang chụp"
+   },
+   "tosavemessage": {
+      "message": "Để lưu ảnh, nhấp chuột phải vào nó chọn \"Lưu hình ảnh thành\""
+   },
+   "url": {
+      "message": "URL"
+   },
+   "visiblescreenshot": {
+      "message": "Chỉ trang đang thấy trên màn hình"
+   },
+   "wait": {
+      "message": "xin chờ"
+   },
+   "width": {
+      "message": "chiều rộng"
+   },
+   "zoom": {
+      "message": "Phóng to"
+   }
+}

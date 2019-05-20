@@ -1,0 +1,24 @@
+{
+   "background": {
+      "page": "background.html"
+   },
+   "browser_action": {
+      "default_icon": "icon.png",
+      "default_title": "dotEPUB"
+   },
+   "content_security_policy": "script-src 'self' https://www.google-analytics.com; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_extDesc__",
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon.png",
+      "48": "icon48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC8/yuSn8U8Tt/VSuhCAk1Wp+QCwspBVBhEMJMF2BPBYt1akOX4pm7WmDiaD0XyvlhXDUur2eyMuPoZ4DWGOsCsSjNZl9FtydhqNE5VgdoIzwaCxd10Fuv1Nwk/kl2bkQx+9ljwIZSYZfIYks2WgBvHk0gRsw/9yIiYFAF3NXg+IwIDAQAB",
+   "manifest_version": 2,
+   "name": "dotEPUB",
+   "options_page": "options.html",
+   "permissions": [ "tabs", "http://*/*", "https://*/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.2.3"
+}

@@ -1,0 +1,6 @@
+layout=1
+date_font=xos4 Terminus 10
+time_font=xos4 Terminus 12
+date_format=%Y-%m-%d
+time_format=%H:%M
+

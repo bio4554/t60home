@@ -1,0 +1,34 @@
+{
+   "goPremiumHeader": {
+      "description": "Take your screenshots to the next level with Full Page Screen Capture Premium",
+      "message": "Leve suas capturas de tela ao próximo nível com o Full Page Screen Capture Premium."
+   },
+   "goPremiumLink": {
+      "description": "Get started (free 1-week trial)",
+      "message": "Comece agora (teste grátis de 1 semana)."
+   },
+   "goPremiumSignInLink": {
+      "description": "Sign in",
+      "message": "Entre aqui"
+   },
+   "goPremiumSignInMessage": {
+      "description": "Already have an account?",
+      "message": "Já é cadastrado?"
+   },
+   "goPremiumSubHeader": {
+      "description": "Including advanced editing and annotation features of screenshots",
+      "message": "Inclui ferramentas de edição avançada e marcações do usuário."
+   },
+   "tryEditingNo": {
+      "description": "No thanks",
+      "message": "Não, obrigado!"
+   },
+   "tryEditingRequest": {
+      "description": "Try editing and annotating your screenshot",
+      "message": "Tente editar e criar marcaçōes na captura de tela"
+   },
+   "tryEditingYes": {
+      "description": "Ok!",
+      "message": "Ok!"
+   }
+}

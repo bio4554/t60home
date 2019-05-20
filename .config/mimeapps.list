@@ -1,0 +1,4 @@
+[Added Associations]
+application/x-compressed-tar=org.gnome.FileRoller.desktop;Thunar.desktop;Thunar-folder-handler.desktop;
+text/plain=mousepad.desktop;
+audio/mpeg=org.xfce.Parole.desktop;

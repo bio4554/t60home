@@ -1,0 +1,98 @@
+{
+   "allpage": {
+      "message": "All page screenshot"
+   },
+   "cancel": {
+      "message": "취소"
+   },
+   "canceled": {
+      "message": "Taking capture canceled!"
+   },
+   "cannotscroll": {
+      "message": "Cannot scroll the page\u003Cbr>\u003Cbr/>Try to reopen this tab"
+   },
+   "changeheaders": {
+      "message": "Change Header and Footer"
+   },
+   "createimage": {
+      "message": " Creating the image file..."
+   },
+   "date": {
+      "message": "Date"
+   },
+   "description": {
+      "message": "웹페이지 스크린샷."
+   },
+   "dir": {
+      "message": "ltr"
+   },
+   "filebug": {
+      "message": "You can file a bug report"
+   },
+   "footer": {
+      "message": "Footer"
+   },
+   "header": {
+      "message": "Header"
+   },
+   "height": {
+      "message": "height"
+   },
+   "imagesize": {
+      "message": "이미지 크기:"
+   },
+   "likeresult": {
+      "message": "Like the result? You can write a nice comment, and give 5 stars"
+   },
+   "loadcapturescript": {
+      "message": "Loading Capture Script..."
+   },
+   "name": {
+      "message": "스크린샷 - Screenshot Extension"
+   },
+   "noall": {
+      "message": "Cannot scroll this page (Extensions cannot work on internal Chrome pages nor on Chrome extensions gallery)"
+   },
+   "noresize": {
+      "message": "No resize"
+   },
+   "openimage": {
+      "message": "이미지를 열려면 클릭하세요:"
+   },
+   "or": {
+      "message": "or"
+   },
+   "preview": {
+      "message": "미리보기:"
+   },
+   "resize": {
+      "message": "Resize to: "
+   },
+   "resizebefore": {
+      "message": "Resize window before the capture"
+   },
+   "takecapture": {
+      "message": "Take Capture Now"
+   },
+   "takingcapture": {
+      "message": "Taking capture"
+   },
+   "tosavemessage": {
+      "message": "To save the Image, right click on it and choose \"Save Image\""
+   },
+   "url": {
+      "message": "URL"
+   },
+   "visiblescreenshot": {
+      "message": "Visible screenshot"
+   },
+   "wait": {
+      "message": "대기"
+   },
+   "width": {
+      "message": "width"
+   },
+   "zoom": {
+      "message": "Zoom"
+   }
+}

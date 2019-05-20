@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>dotEPUB</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+		<style type="text/css">
+			section, footer {
+				display: block;
+			}
+			header, section, footer, select, button {
+				font-family: 'Trebuchet MS', verdana, Serif;
+				font-size: 1em;
+			}
+			header p {
+				margin: 0;
+				padding: 0;
+			}
+			select {
+				padding-left: 0.3em;
+			}
+			option {
+				padding: 0 0.4em;
+			}
+			h1 {
+				margin: 0.8em 0 0 0;
+				padding: 0;
+			}
+			h1 img {
+				border:0;
+				height: 32px;
+				width: 160px;
+				margin: 0;
+			}
+			#content {
+				margin:0;
+				padding:0;
+			}
+			#msg {
+				color: #85ba25;
+				padding-left: 12em;
+			}
+			.box p {
+				line-height: normal;
+				margin: 1em 0.5em;
+			}
+			.box p.indent {
+				margin-left: 2em;
+				text-indent: -1.5em;
+			}
+
+			#wrap {
+				margin:0;
+				padding:0;
+			}
+			#content {
+				text-align: center;
+			}
+
+			footer, footer a {
+				color: #666;
+			}
+
+			footer img {
+				vertical-align: middle;
+				width: 135px;
+				height: 15px;
+			}
+
+			.box {
+				margin-bottom: 1em;
+				border: 2px solid #85ba25;
+				border-radius: 8px;
+				box-shadow: rgba(0, 0, 0, 0.35) 3px 2px 2px 0;
+				background: -webkit-gradient(linear, left top, left bottom, from(#d5eeab), to(#bcee68));
+				text-align: left;
+			}
+
+			h2 {
+				font-size: 1.1em;
+				margin: 0;
+				padding: 0.2em 0.5em;
+				background-color: #85ba25;
+				color: #fff;
+				font-weight: bold;
+
+			}
+
+			#summ {
+				width:400px;
+				margin:1em auto;
+			}
+
+			footer p {
+				margin:0;
+				padding:0;
+			}
+		</style>
+
+		<script src="options.js"></script>
+	</head>
+	<body>
+		<div id="wrap">
+			<div id="content">
+				<header>
+					<h1><a href="http://dotepub.com"><img src="http:/dotepub.com/i/dotepub.png" alt="dotEPUB" /></a></h1>
+					<p>v. 1.2.3</p>
+				</header>
+
+				<section>
+					<div id="summ">
+						<div class="box">
+							<h2></h2>
+								<p class="indent">
+									<input type="checkbox" name="li" id="li" /> <label for="li"></label>
+									<input type="radio" name="fmt" id="epub" value="epub" /> <label for="epub">EPUB</label>
+									<input type="radio" name="fmt" id="mobi" value="mobi" /> <label for="mobi">MOBI (Kindle)</label>
+								</p>
+								<p><label for="la"></label> <select name="la" id="la"></select></p>
+								<p><button></button> <strong id="msg"></strong></p>
+								<p id="note"></p>
+								<p id="warn"><strong></strong> <span></span></p>
+						</div>
+					</div>
+				</section>
+
+
+				<footer>
+					<p><a href="http://xavierbadosa.com">Xavier Badosa</a> | <img src="http:/dotepub.com/i/contact.png" alt="info @ dotepub . com" /></p>
+				</footer>
+			</div>
+		</div>
+	</body>
+</html>

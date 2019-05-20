@@ -1,0 +1,34 @@
+{
+   "goPremiumHeader": {
+      "description": "Take your screenshots to the next level with Full Page Screen Capture Premium",
+      "message": "Full Page Screen Capture Premiumで、あなたのスクリーンショットを一つ上のレベルへ"
+   },
+   "goPremiumLink": {
+      "description": "Get started (free 1-week trial)",
+      "message": "始めてみる（１週間無料トライアル）"
+   },
+   "goPremiumSignInLink": {
+      "description": "Sign in",
+      "message": "ログイン"
+   },
+   "goPremiumSignInMessage": {
+      "description": "Already have an account?",
+      "message": "既にアカウントをお持ちですか？"
+   },
+   "goPremiumSubHeader": {
+      "description": "Speed up your workflow with advanced editing and annotation features directly in the extension!",
+      "message": "アプリケーション内の進化したスクリーンショット編集・注記機能で、あなたの業務フローをスピードアップしましょう"
+   },
+   "tryEditingNo": {
+      "description": "No thanks",
+      "message": "いいえ"
+   },
+   "tryEditingRequest": {
+      "description": "Try editing and annotating your screenshot",
+      "message": "スクリーンショットの編集・注記を試してみてください"
+   },
+   "tryEditingYes": {
+      "description": "Ok!",
+      "message": "はい"
+   }
+}

@@ -1,0 +1,52 @@
+[CLIENT] 0x80a171
+  [CLIENT_ID] 25d4a86be-279b-4b1f-b533-546152a32ed5
+  [CLIENT_LEADER] 0x800001
+  [WINDOW_ROLE] Thunar-1557708924-3232533607
+  [RES_NAME] Thunar
+  [RES_CLASS] Thunar
+  [WM_NAME] Downloads - File Manager
+  [WM_COMMAND] (1) "Thunar"
+  [GEOMETRY] (5,25,693,480)
+  [GEOMETRY-MAXIMIZED] (5,25,693,480)
+  [SCREEN] 0
+  [DESK] 1
+  [FLAGS] 0x10000
+[CLIENT] 0x2200034
+  [CLIENT_ID] 248571ca8-02e4-4dd4-b6f8-ead6a0406cb4
+  [CLIENT_LEADER] 0x2200001
+  [WINDOW_ROLE] xfce4-terminal-1557705305-361009115
+  [RES_NAME] xfce4-terminal
+  [RES_CLASS] Xfce4-terminal
+  [WM_NAME] Terminal - bio4554@biopad:~/dev/tutrog
+  [WM_COMMAND] (1) "xfce4-terminal"
+  [GEOMETRY] (674,478,658,410)
+  [GEOMETRY-MAXIMIZED] (674,478,658,410)
+  [SCREEN] 0
+  [DESK] 1
+  [FLAGS] 0x10000
+[CLIENT] 0x2200003
+  [CLIENT_ID] 248571ca8-02e4-4dd4-b6f8-ead6a0406cb4
+  [CLIENT_LEADER] 0x2200001
+  [WINDOW_ROLE] xfce4-terminal-1557694378--1293181419
+  [RES_NAME] xfce4-terminal
+  [RES_CLASS] Xfce4-terminal
+  [WM_NAME] Terminal - bio4554@biopad:~
+  [WM_COMMAND] (1) "xfce4-terminal"
+  [GEOMETRY] (175,128,650,410)
+  [GEOMETRY-MAXIMIZED] (175,128,650,410)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10000
+[CLIENT] 0x2200026
+  [CLIENT_ID] 248571ca8-02e4-4dd4-b6f8-ead6a0406cb4
+  [CLIENT_LEADER] 0x2200001
+  [WINDOW_ROLE] xfce4-terminal-1557696030--1030568496
+  [RES_NAME] xfce4-terminal
+  [RES_CLASS] Xfce4-terminal
+  [WM_NAME] Terminal - bio4554@biopad:~/yay
+  [WM_COMMAND] (1) "xfce4-terminal"
+  [GEOMETRY] (5,25,682,954)
+  [GEOMETRY-MAXIMIZED] (5,25,682,954)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10100
